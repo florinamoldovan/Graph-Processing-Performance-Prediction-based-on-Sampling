@@ -1,0 +1,87 @@
+graph,file,type,network type,source
+email-EuAll,email-EuAll.txt,directed,communication network,https://snap.stanford.edu/data/email-EuAll.html
+web-Google,web-Google.txt,directed,web graph,https://snap.stanford.edu/data/web-Google.html
+roadNet-PA,roadNet-PA.txt,undirected,road network,https://snap.stanford.edu/data/roadNet-PA.html
+roadNet-TX,roadNet-TX.txt,undirected,road network,https://snap.stanford.edu/data/roadNet-TX.html
+roadNet-CA,roadNet-CA.txt,undirected,road network,https://snap.stanford.edu/data/roadNet-CA.html
+wiki-Talk,wiki-Talk.txt,directed,communication network,https://snap.stanford.edu/data/wiki-Talk.html
+com-orkut.ungraph,com-orkut.ungraph.txt,undirected,networks with ground-truth communities,https://snap.stanford.edu/data/com-Orkut.html
+cit-Patents,cit-Patents.txt,directed,citation network,https://snap.stanford.edu/data/cit-Patents.html
+soc-LiveJournal1,soc-LiveJournal1.txt,directed,social,https://snap.stanford.edu/data/soc-LiveJournal1.html
+LiveJournal Links,out.livejournal-links,undirected,social,http://konect.uni-koblenz.de/networks/livejournal-links
+"Wikipedia Links, English",out.wikipedia_link_en,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_en
+"Wikipedia, English (dbpedia)",out.dbpedia-link,directed,hyperlink,http://konect.uni-koblenz.de/networks/dbpedia-link
+Facebook Combined,facebook_combined.txt,undirected,social network,https://snap.stanford.edu/data/egonets-Facebook.html
+soc-Slashdot0811,soc-Slashdot0811.txt,directed,social network,https://snap.stanford.edu/data/soc-Slashdot0811.html
+soc-Slashdot0902,soc-Slashdot0902.txt,directed,social network,https://snap.stanford.edu/data/soc-Slashdot0902.html
+wiki-Vote,wiki-Vote.txt,directed,Wikipedia who-votes-on-whom network,https://snap.stanford.edu/data/wiki-Vote.html
+com-Amazon,com-amazon.ungraph.txt,undirected,Amazon product network,https://snap.stanford.edu/data/com-Amazon.html
+com-DBLP,com-dblp.ungraph.txt,undirected,colaboration network,https://snap.stanford.edu/data/com-DBLP.html
+LiveJournal,com-lj.ungraph.txt,undirected,social network,https://snap.stanford.edu/data/com-LiveJournal.html
+com-Youtube,com-youtube.ungraph.txt,undirected,social network,https://snap.stanford.edu/data/com-Youtube.html
+email-Enron,email-Enron.txt,undirected,communication,https://snap.stanford.edu/data/email-Enron.html
+Actor collaborations,actor-collaboration.edges,undirected,misc,http://konect.uni-koblenz.de/networks/actor-collaboration
+Jazz,arenas-jazz.edges,undirected,humansocial,http://konect.uni-koblenz.de/networks/arenas-jazz
+CAIDA,as-caida20071105.edges,undirected,computer,http://konect.uni-koblenz.de/networks/as-caida20071105
+Skitter,as-skitter.edges,undirected,computer,http://konect.uni-koblenz.de/networks/as-skitter
+arXiv astro-ph,ca-AstroPh.edges,undirected,coauthorship,http://konect.uni-koblenz.de/networks/ca-AstroPh
+arXiv hep-ph,ca-cit-HepPh.edges,undirected,coauthorship,http://konect.uni-koblenz.de/networks/ca-cit-HepPh
+arXiv hep-th,ca-cit-HepTh.edges,undirected,coauthorship,http://konect.uni-koblenz.de/networks/ca-cit-HepTh
+Google.com internal,cfinder-google.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/cfinder-google
+Chess,chess.edges,directed,interaction,http://konect.uni-koblenz.de/networks/chess
+Amazon (MDS),com-amazon.edges,undirected,misc,http://konect.uni-koblenz.de/networks/com-amazon
+DBLP co-authorship,com-dblp.edges,undirected,coauthorship,http://konect.uni-koblenz.de/networks/com-dblp
+Youtube Friendship,com-youtube.edges,undirected,social,http://konect.uni-koblenz.de/networks/com-youtube
+Contiguous USA,contiguous-usa.edges,undirected,infrastructure,http://konect.uni-koblenz.de/networks/contiguous-usa
+DBLP,dblp_coauthor.edges,undirected,coauthorship,http://konect.uni-koblenz.de/networks/dblp_coauthor
+Digg friends,digg-friends.edges,directed,social,http://konect.uni-koblenz.de/networks/digg-friends
+Dolphins,dolphins.edges,undirected,animal,http://konect.uni-koblenz.de/networks/dolphins
+Douban,douban.edges,undirected,social,http://konect.uni-koblenz.de/networks/douban
+Google+,ego-gplus.edges,directed,social,http://konect.uni-koblenz.de/networks/ego-gplus
+Twitter lists,ego-twitter.edges,directed,social,http://konect.uni-koblenz.de/networks/ego-twitter
+Wikipedia elections,elec.edges,directed,online contact,http://konect.uni-koblenz.de/networks/elec
+Enron,enron.edges,directed,communication,http://konect.uni-koblenz.de/networks/enron
+Facebook wall posts,facebook-wosn-links.edges,undirected,communication,http://konect.uni-koblenz.de/networks/facebook-wosn-links
+Flickr,flickrEdges.edges,undirected,misc,http://konect.uni-koblenz.de/networks/flickrEdges
+Flickr,flickr-growth.edges,directed,social,http://konect.uni-koblenz.de/networks/flickr-growth
+Flickr links,flickr-links.edges,undirected,social,http://konect.uni-koblenz.de/networks/flickr-links
+Flixster,flixster.edges,undirected,social,http://konect.uni-koblenz.de/networks/flixster
+FOLDOC,foldoc.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/foldoc
+Hyves,hyves.edges,undirected,social,http://konect.uni-koblenz.de/networks/hyves
+Libimseti.cz,libimseti.edges,directed,social,http://konect.uni-koblenz.de/networks/libimseti
+Linux,linux.edges,directed,software,http://konect.uni-koblenz.de/networks/linux
+Livemocha,livemocha.edges,undirected,social,http://konect.uni-koblenz.de/networks/livemocha
+Brightkite,loc-brightkite_edges.edges,undirected,social,http://konect.uni-koblenz.de/networks/loc-brightkite_edges
+Gowalla,loc-gowalla_edges.edges,undirected,social,http://konect.uni-koblenz.de/networks/loc-gowalla_edges
+Bison,moreno_bison.edges,directed,animal,http://konect.uni-koblenz.de/networks/moreno_bison
+Twitter user–hashtag,munmun_twitterex_ut.edges,directed,folksonomy,http://konect.uni-koblenz.de/networks/munmun_twitterex_ut
+Gnutella,p2p-Gnutella31.edges,directed,computer,http://konect.uni-koblenz.de/networks/p2p-Gnutella31
+Catster/Dogster Familylinks/Friendships,petster-carnivore.edges,undirected,social,http://konect.uni-koblenz.de/networks/petster-carnivore
+Catster Friendships,petster-friendships-cat.edges,undirected,social,http://konect.uni-koblenz.de/networks/petster-friendships-cat
+Dogster Friendships,petster-friendships-dog.edges,undirected,social,http://konect.uni-koblenz.de/networks/petster-friendships-dog
+Prosper loans,prosper-loans.edges,directed,interaction,http://konect.uni-koblenz.de/networks/prosper-loans
+Manufacturing emails,radoslaw_email.edges,directed,communication,http://konect.uni-koblenz.de/networks/radoslaw_email
+Slashdot threads,slashdot-threads.edges,directed,communication,http://konect.uni-koblenz.de/networks/slashdot-threads
+Slashdot Zoo,slashdot-zoo.edges,directed,social,http://konect.uni-koblenz.de/networks/slashdot-zoo
+Epinions,soc-Epinions1.edges,directed,social,http://konect.uni-koblenz.de/networks/soc-Epinions1
+Pokec,soc-pokec-relationships.edges,directed,social,http://konect.uni-koblenz.de/networks/soc-pokec-relationships
+Internet Topology,topology.edges,undirected,computer,http://konect.uni-koblenz.de/networks/topology
+TREC WT10g,trec-wt10g.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/trec-wt10g
+Notre Dame,web-NotreDame.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/web-NotreDame
+Wikipedia conflict,wikiconflict.edges,undirected,online contact,http://konect.uni-koblenz.de/networks/wikiconflict
+"Wikipedia links, German",wikipedia_link_de.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_de
+"Wikipedia links, French",wikipedia_link_fr.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_fr
+"Wikipedia links, Italian",wikipedia_link_it.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_it
+"Wikipedia links, Japanese",wikipedia_link_ja.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_ja
+"Wikipedia links, Polish",wikipedia_link_pl.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_pl
+"Wikipedia links, Portuguese ",wikipedia_link_pt.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_pt
+"Wikipedia links, Russian",wikipedia_link_ru.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/wikipedia_link_ru
+WikiSigned,wikisigned-k2.edges,directed,online contact,http://konect.uni-koblenz.de/networks/wikisigned-k2
+"Wikipedia talk, German",wiki_talk_de.edges,directed,communication,http://konect.uni-koblenz.de/networks/wiki_talk_de
+"Wikipedia talk, English",wiki_talk_en.edges,directed,communication,http://konect.uni-koblenz.de/networks/wiki_talk_en
+"Wikipedia talk, Spanish",wiki_talk_es.edges,directed,communication,http://konect.uni-koblenz.de/networks/wiki_talk_es
+WordNet,wordnet-words.edges,undirected,lexical,http://konect.uni-koblenz.de/networks/wordnet-words
+Youtube links,youtube-links.edges,directed,social,http://konect.uni-koblenz.de/networks/youtube-links
+Youtube,youtube-u-growth.edges,undirected,social,http://konect.uni-koblenz.de/networks/youtube-u-growth
+Baidu internal links,zhishi-baidu-internallink.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/zhishi-baidu-internallink
+Hudong internal links,zhishi-hudong-internallink.edges,directed,hyperlink,http://konect.uni-koblenz.de/networks/zhishi-hudong-internallink
