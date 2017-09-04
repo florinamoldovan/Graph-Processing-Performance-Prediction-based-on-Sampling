@@ -1,0 +1,1353 @@
+bfs,version,time(ns),version,time(ns),version,time(ns),version,time(ns),version,time(ns)
+cit-Patents.txt,1,,2,,3,,4,,5,
+graph,edge-list,34872600,rev-edge-list,41466300,vertex-pull,69784600,vertex-push,7951280,vertex-push-warp,47885200
+ff 50,edge-list,9100040,rev-edge-list,10352700,vertex-pull,18096800,vertex-push,3678020,vertex-push-warp,21945200
+ff 30,edge-list,5138100,rev-edge-list,5706950,vertex-pull,10218500,vertex-push,2368180,vertex-push-warp,13870500
+ff 15,edge-list,2366350,rev-edge-list,2535640,vertex-pull,4643140,vertex-push,1261350,vertex-push-warp,7138540
+ff 05,edge-list,765682,rev-edge-list,806123,vertex-pull,1488870,vertex-push,490134,vertex-push-warp,2587000
+re 50,edge-list,4050970,rev-edge-list,4447960,vertex-pull,11847200,vertex-push,4021320,vertex-push-warp,23990100
+re 30,edge-list,1854490,rev-edge-list,1947440,vertex-pull,6134240,vertex-push,2449940,vertex-push-warp,14533800
+re 15,edge-list,830053,rev-edge-list,853842,vertex-pull,2813880,vertex-push,1267310,vertex-push-warp,7296980
+re 05,edge-list,306154,rev-edge-list,311450,vertex-pull,958226,vertex-push,487475,vertex-push-warp,2579550
+rw 50,edge-list,4513780,rev-edge-list,5109960,vertex-pull,12926500,vertex-push,4021280,vertex-push-warp,23986400
+rw 30,edge-list,2265240,rev-edge-list,2501310,vertex-pull,6779670,vertex-push,2450040,vertex-push-warp,14540300
+rw 15,edge-list,1031520,rev-edge-list,1118930,vertex-pull,3063450,vertex-push,1269730,vertex-push-warp,7307410
+rw 05,edge-list,362257,rev-edge-list,389205,vertex-pull,1003400,vertex-push,487632,vertex-push-warp,2586340
+,,,,,,,,,,
+com-orkut.ungraph.txt,1,,2,,3,,4,,5,
+graph,edge-list,2052760000,rev-edge-list,2316970000,vertex-pull,1303730000,vertex-push,518864000,vertex-push-warp,377807000
+ff 50,edge-list,110597000,rev-edge-list,119145000,vertex-pull,127727000,vertex-push,99989700,vertex-push-warp,82506300
+ff 30,edge-list,36659300,rev-edge-list,39186400,vertex-pull,55770400,vertex-push,77205500,vertex-push-warp,41238100
+ff 15,edge-list,12042300,rev-edge-list,12580400,vertex-pull,35862700,vertex-push,48650400,vertex-push-warp,19493500
+ff 05,edge-list,2471420,rev-edge-list,2549940,vertex-pull,37545000,vertex-push,38204300,vertex-push-warp,7176240
+re 50,edge-list,129415000,rev-edge-list,149206000,vertex-pull,158874000,vertex-push,68469400,vertex-push-warp,350971000
+re 30,edge-list,100577000,rev-edge-list,110003000,vertex-pull,153015000,vertex-push,69227700,vertex-push-warp,373706000
+re 15,edge-list,2672260,rev-edge-list,2737890,vertex-pull,5469640,vertex-push,2074280,vertex-push-warp,11892400
+re 05,edge-list,663191,rev-edge-list,661523,vertex-pull,1283960,vertex-push,608607,vertex-push-warp,3118060
+rw 50,edge-list,140973000,rev-edge-list,155269000,vertex-pull,130570000,vertex-push,58194700,vertex-push-warp,287153000
+rw 30,edge-list,94844200,rev-edge-list,99097000,vertex-pull,105412000,vertex-push,46871800,vertex-push-warp,245219000
+rw 15,edge-list,77075200,rev-edge-list,78033700,vertex-pull,90571900,vertex-push,43140700,vertex-push-warp,226438000
+rw 05,edge-list,3156860,rev-edge-list,3145700,vertex-pull,4225730,vertex-push,1793350,vertex-push-warp,9321720
+,,,,,,,,,,
+email-EuAll.txt,1,,2,,3,,4,,5,
+graph,edge-list,3943710,rev-edge-list,4231840,vertex-pull,29096400,vertex-push,6050230,vertex-push-warp,14794100
+ff 50,edge-list,2189010,rev-edge-list,2314700,vertex-pull,9275530,vertex-push,4056660,vertex-push-warp,7199100
+ff 30,edge-list,1572720,rev-edge-list,1717170,vertex-pull,4762400,vertex-push,3891400,vertex-push-warp,4432450
+ff 15,edge-list,1370970,rev-edge-list,1387300,vertex-pull,1997830,vertex-push,3640050,vertex-push-warp,3028150
+ff 05,edge-list,297213,rev-edge-list,266377,vertex-pull,388834,vertex-push,2709840,vertex-push-warp,1075770
+re 50,edge-list,2114170,rev-edge-list,2322310,vertex-pull,33747400,vertex-push,3291030,vertex-push-warp,8447880
+re 30,edge-list,1268290,rev-edge-list,1421600,vertex-pull,18301600,vertex-push,2133200,vertex-push-warp,5221720
+re 15,edge-list,721663,rev-edge-list,830850,vertex-pull,8611220,vertex-push,1268640,vertex-push-warp,2748020
+re 05,edge-list,802431,rev-edge-list,944796,vertex-pull,4477960,vertex-push,1303870,vertex-push-warp,2060300
+rw 50,edge-list,2143900,rev-edge-list,2303670,vertex-pull,13582900,vertex-push,5198800,vertex-push-warp,7944500
+rw 30,edge-list,354220,rev-edge-list,376534,vertex-pull,3403060,vertex-push,240771,vertex-push-warp,1069350
+rw 15,edge-list,1087080,rev-edge-list,1202140,vertex-pull,7942540,vertex-push,2196820,vertex-push-warp,3352700
+rw 05,edge-list,594036,rev-edge-list,702636,vertex-pull,3148590,vertex-push,1317970,vertex-push-warp,1624160
+,,,,,,,,,,
+out.dbpedia-link,1,,2,,3,,4,,5,
+graph,edge-list,6916570000,rev-edge-list,7851610000,vertex-pull,4674400000,vertex-push,1612800000,vertex-push-warp,5785610000
+ff 50,edge-list,987526000,rev-edge-list,1115780000,vertex-pull,1412900000,vertex-push,482119000,vertex-push-warp,797698000
+ff 30,edge-list,371912000,rev-edge-list,414790000,vertex-pull,398176000,vertex-push,227321000,vertex-push-warp,391256000
+ff 15,edge-list,115159000,rev-edge-list,125240000,vertex-pull,114866000,vertex-push,96635000,vertex-push-warp,172405000
+ff 05,edge-list,25677300,rev-edge-list,27356900,vertex-pull,25277000,vertex-push,25360200,vertex-push-warp,56457900
+re 50,edge-list,1055150000,rev-edge-list,1219040000,vertex-pull,1219880000,vertex-push,387231000,vertex-push-warp,1368350000
+re 30,edge-list,381619000,rev-edge-list,444151000,vertex-pull,679822000,vertex-push,187925000,vertex-push-warp,876098000
+re 15,edge-list,151765000,rev-edge-list,174769000,vertex-pull,445716000,vertex-push,117646000,vertex-push-warp,669899000
+re 05,edge-list,3343240,rev-edge-list,3642600,vertex-pull,17473400,vertex-push,3948270,vertex-push-warp,23323800
+rw 50,edge-list,437743000,rev-edge-list,503889000,vertex-pull,668781000,vertex-push,199829000,vertex-push-warp,981034000
+rw 30,edge-list,253955000,rev-edge-list,292049000,vertex-pull,417488000,vertex-push,137438000,vertex-push-warp,726829000
+rw 15,edge-list,107091000,rev-edge-list,122487000,vertex-pull,199109000,vertex-push,70285200,vertex-push-warp,381553000
+rw 05,edge-list,5357840,rev-edge-list,5950280,vertex-pull,19202800,vertex-push,3935400,vertex-push-warp,23327800
+,,,,,,,,,,
+out.livejournal-links,1,,2,,3,,4,,5,
+graph,edge-list,1575220000,rev-edge-list,1745600000,vertex-pull,607196000,vertex-push,298316000,vertex-push-warp,626112000
+ff 50,edge-list,217301000,rev-edge-list,237246000,vertex-pull,181930000,vertex-push,85187700,vertex-push-warp,157054000
+ff 30,edge-list,87060900,rev-edge-list,93203800,vertex-pull,91304100,vertex-push,63014500,vertex-push-warp,89345800
+ff 15,edge-list,90199400,rev-edge-list,98728600,vertex-pull,57253500,vertex-push,61148600,vertex-push-warp,45286900
+ff 05,edge-list,5086700,rev-edge-list,5244790,vertex-pull,16066200,vertex-push,26402600,vertex-push-warp,11046800
+re 50,edge-list,281435000,rev-edge-list,333107000,vertex-pull,248214000,vertex-push,109762000,vertex-push-warp,495774000
+re 30,edge-list,162503000,rev-edge-list,185782000,vertex-pull,215833000,vertex-push,88216300,vertex-push-warp,463748000
+re 15,edge-list,2580570,rev-edge-list,2762420,vertex-pull,5086040,vertex-push,1704650,vertex-push-warp,10000400
+re 05,edge-list,739980,rev-edge-list,744947,vertex-pull,1441630,vertex-push,629169,vertex-push-warp,3435400
+rw 50,edge-list,313234000,rev-edge-list,352151000,vertex-pull,245871000,vertex-push,110140000,vertex-push-warp,533055000
+rw 30,edge-list,179912000,rev-edge-list,193062000,vertex-pull,178066000,vertex-push,78906500,vertex-push-warp,411293000
+rw 15,edge-list,3722280,rev-edge-list,3810210,vertex-pull,5585790,vertex-push,1716730,vertex-push-warp,10001400
+rw 05,edge-list,6181520,rev-edge-list,6233280,vertex-pull,8587750,vertex-push,3358290,vertex-push-warp,18814100
+,,,,,,,,,,
+out.wikipedia_link_en,1,,2,,3,,4,,5,
+graph,edge-list,160895000000,rev-edge-list,170949000000,vertex-pull,18371400000,vertex-push,5891990000,vertex-push-warp,31599800000
+ff 50,edge-list,1974530000,rev-edge-list,2125160000,vertex-pull,1589380000,vertex-push,520893000,vertex-push-warp,579112000
+ff 30,edge-list,459798000,rev-edge-list,496518000,vertex-pull,332778000,vertex-push,224395000,vertex-push-warp,268472000
+ff 15,edge-list,119001000,rev-edge-list,127550000,vertex-pull,86184300,vertex-push,91578400,vertex-push-warp,112270000
+ff 05,edge-list,22941300,rev-edge-list,24216400,vertex-pull,21522500,vertex-push,23214700,vertex-push-warp,38254200
+re 50,edge-list,956422000,rev-edge-list,1072700000,vertex-pull,910594000,vertex-push,247978000,vertex-push-warp,1003790000
+re 30,edge-list,382769000,rev-edge-list,428850000,vertex-pull,639746000,vertex-push,190773000,vertex-push-warp,1028870000
+re 15,edge-list,150707000,rev-edge-list,164035000,vertex-pull,534020000,vertex-push,142575000,vertex-push-warp,827349000
+re 05,edge-list,1916570,rev-edge-list,1975640,vertex-pull,10202800,vertex-push,2673690,vertex-push-warp,15591000
+rw 50,edge-list,602820000,rev-edge-list,681761000,vertex-pull,598910000,vertex-push,226556000,vertex-push-warp,1106400000
+rw 30,edge-list,348058000,rev-edge-list,394064000,vertex-pull,416518000,vertex-push,165412000,vertex-push-warp,873933000
+rw 15,edge-list,168340000,rev-edge-list,188977000,vertex-pull,246632000,vertex-push,102653000,vertex-push-warp,565536000
+rw 05,edge-list,46421400,rev-edge-list,50698100,vertex-pull,86132500,vertex-push,38271400,vertex-push-warp,206160000
+,,,,,,,,,,
+roadNet-CA.txt,1,,2,,3,,4,,5,
+graph,edge-list,3258930000,rev-edge-list,3275040000,vertex-pull,2505340000,vertex-push,1181800000,vertex-push-warp,7004950000
+ff 50,edge-list,2251510000,rev-edge-list,2265180000,vertex-pull,1774450000,vertex-push,858398000,vertex-push-warp,4998110000
+ff 30,edge-list,1339460000,rev-edge-list,1348310000,vertex-pull,1057850000,vertex-push,517652000,vertex-push-warp,2968950000
+ff 15,edge-list,295113000,rev-edge-list,297178000,vertex-pull,240366000,vertex-push,123494000,vertex-push-warp,667400000
+ff 05,edge-list,62635800,rev-edge-list,63125900,vertex-pull,53174100,vertex-push,29087100,vertex-push-warp,145002000
+re 50,edge-list,2782840,rev-edge-list,2930050,vertex-pull,4905670,vertex-push,2137700,vertex-push-warp,12531600
+re 30,edge-list,1539820,rev-edge-list,1560410,vertex-pull,2870820,vertex-push,1321140,vertex-push-warp,7640620
+re 15,edge-list,765284,rev-edge-list,767528,vertex-pull,1457350,vertex-push,715492,vertex-push-warp,3944930
+re 05,edge-list,304387,rev-edge-list,299353,vertex-pull,513667,vertex-push,285312,vertex-push-warp,1404280
+rw 50,edge-list,120741000,rev-edge-list,122383000,vertex-pull,149479000,vertex-push,62770600,vertex-push-warp,374554000
+rw 30,edge-list,2321460,rev-edge-list,2332810,vertex-pull,2994450,vertex-push,1315350,vertex-push-warp,7639920
+rw 15,edge-list,1159080,rev-edge-list,1160740,vertex-pull,1542640,vertex-push,717104,vertex-push-warp,3944030
+rw 05,edge-list,1094890,rev-edge-list,1083190,vertex-pull,1369810,vertex-push,723463,vertex-push-warp,3486120
+,,,,,,,,,,
+roadNet-PA.txt,1,,2,,3,,4,,5,
+graph,edge-list,1783310000,rev-edge-list,1794560000,vertex-pull,1373940000,vertex-push,651225000,vertex-push-warp,3799270000
+ff 50,edge-list,1248790000,rev-edge-list,1257440000,vertex-pull,983589000,vertex-push,480836000,vertex-push-warp,2744150000
+ff 30,edge-list,437118000,rev-edge-list,440386000,vertex-pull,355331000,vertex-push,178369000,vertex-push-warp,973972000
+ff 15,edge-list,164320000,rev-edge-list,165813000,vertex-pull,135136000,vertex-push,71723800,vertex-push-warp,369100000
+ff 05,edge-list,35516400,rev-edge-list,36157500,vertex-pull,30913200,vertex-push,19511000,vertex-push-warp,82895900
+re 50,edge-list,2366350,rev-edge-list,2456950,vertex-pull,4087930,vertex-push,1824310,vertex-push-warp,10447400
+re 30,edge-list,1375390,rev-edge-list,1384600,vertex-pull,2403740,vertex-push,1138190,vertex-push-warp,6397830
+re 15,edge-list,467079,rev-edge-list,473678,vertex-pull,839762,vertex-push,435627,vertex-push-warp,2249330
+re 05,edge-list,233584,rev-edge-list,230109,vertex-pull,335629,vertex-push,214683,vertex-push-warp,881335
+rw 50,edge-list,5713620,rev-edge-list,5790880,vertex-pull,6967310,vertex-push,3019940,vertex-push-warp,17389200
+rw 30,edge-list,3284780,rev-edge-list,3299880,vertex-pull,4173820,vertex-push,1881470,vertex-push-warp,10648800
+rw 15,edge-list,683349,rev-edge-list,683287,vertex-pull,882409,vertex-push,435767,vertex-push-warp,2247120
+rw 05,edge-list,280916,rev-edge-list,277247,vertex-pull,357512,vertex-push,215950,vertex-push-warp,879349
+,,,,,,,,,,
+roadNet-TX.txt,1,,2,,3,,4,,5,
+graph,edge-list,2956550000,rev-edge-list,2971060000,vertex-pull,2303220000,vertex-push,1083530000,vertex-push-warp,6394110000
+ff 50,edge-list,89330600,rev-edge-list,89849400,vertex-pull,79675900,vertex-push,33576500,vertex-push-warp,197774000
+ff 30,edge-list,18393200,rev-edge-list,18464600,vertex-pull,16321200,vertex-push,7017310,vertex-push-warp,40678200
+ff 15,edge-list,6348540,rev-edge-list,6389400,vertex-pull,5613910,vertex-push,2522800,vertex-push-warp,13744000
+ff 05,edge-list,3471230,rev-edge-list,3507280,vertex-pull,3255370,vertex-push,1694060,vertex-push-warp,7829230
+re 50,edge-list,1983120,rev-edge-list,2075800,vertex-pull,3457580,vertex-push,1528840,vertex-push-warp,8827430
+re 30,edge-list,1651500,rev-edge-list,1664610,vertex-pull,3046760,vertex-push,1418300,vertex-push-warp,8157040
+re 15,edge-list,836332,rev-edge-list,837770,vertex-pull,1513650,vertex-push,763970,vertex-push-warp,4131990
+re 05,edge-list,227997,rev-edge-list,228234,vertex-pull,393305,vertex-push,220854,vertex-push-warp,1051980
+rw 50,edge-list,2881360,rev-edge-list,2917650,vertex-pull,3531740,vertex-push,1529990,vertex-push-warp,8825290
+rw 30,edge-list,8176330,rev-edge-list,8214960,vertex-pull,10549800,vertex-push,4690620,vertex-push-warp,27135800
+rw 15,edge-list,1252440,rev-edge-list,1255050,vertex-pull,1605490,vertex-push,764376,vertex-push-warp,4134480
+rw 05,edge-list,655319,rev-edge-list,657547,vertex-pull,828052,vertex-push,432271,vertex-push-warp,2089700
+,,,,,,,,,,
+soc-LiveJournal1.txt,1,,2,,3,,4,,5,
+graph,edge-list,1111660000,rev-edge-list,1229830000,vertex-pull,526822000,vertex-push,227475000,vertex-push-warp,563556000
+ff 50,edge-list,125973000,rev-edge-list,137800000,vertex-pull,119554000,vertex-push,68507600,vertex-push-warp,124588000
+ff 30,edge-list,52451300,rev-edge-list,56727100,vertex-pull,53414500,vertex-push,46937900,vertex-push-warp,73236200
+ff 15,edge-list,15774700,rev-edge-list,16791700,vertex-pull,16969900,vertex-push,26814800,vertex-push-warp,35338500
+ff 05,edge-list,2945180,rev-edge-list,3082980,vertex-pull,4098920,vertex-push,8204200,vertex-push-warp,10255200
+re 50,edge-list,158758000,rev-edge-list,178224000,vertex-pull,228943000,vertex-push,96062500,vertex-push-warp,501734000
+re 30,edge-list,85078200,rev-edge-list,92886400,vertex-pull,193569000,vertex-push,80343100,vertex-push-warp,452959000
+re 15,edge-list,1288220,rev-edge-list,1345010,vertex-pull,4055300,vertex-push,1605510,vertex-push-warp,9330440
+re 05,edge-list,413116,rev-edge-list,414036,vertex-pull,1277420,vertex-push,606097,vertex-push-warp,3264300
+rw 50,edge-list,171689000,rev-edge-list,193791000,vertex-pull,214016000,vertex-push,92926100,vertex-push-warp,508304000
+rw 30,edge-list,95720500,rev-edge-list,106359000,vertex-pull,155796000,vertex-push,69349700,vertex-push-warp,388822000
+rw 15,edge-list,52322600,rev-edge-list,56922300,vertex-pull,103038000,vertex-push,46704100,vertex-push-warp,260153000
+rw 05,edge-list,31188200,rev-edge-list,32646200,vertex-pull,65472800,vertex-push,30975900,vertex-push-warp,166071000
+,,,,,,,,,,
+web-Google.txt,1,,2,,3,,4,,5,
+graph,edge-list,180499000,rev-edge-list,186472000,vertex-pull,205908000,vertex-push,45692800,vertex-push-warp,204055000
+ff 50,edge-list,49157700,rev-edge-list,51667600,vertex-pull,51830400,vertex-push,18836700,vertex-push-warp,65346100
+ff 30,edge-list,18258000,rev-edge-list,19019900,vertex-pull,25716600,vertex-push,8588190,vertex-push-warp,29801700
+ff 15,edge-list,6708020,rev-edge-list,7009050,vertex-pull,13727300,vertex-push,4442690,vertex-push-warp,13093500
+ff 05,edge-list,2062030,rev-edge-list,2180160,vertex-pull,8422490,vertex-push,2484470,vertex-push-warp,5007160
+re 50,edge-list,1812320,rev-edge-list,1960420,vertex-pull,5834740,vertex-push,1487170,vertex-push-warp,8429360
+re 30,edge-list,591275,rev-edge-list,616208,vertex-pull,1875970,vertex-push,628287,vertex-push-warp,3433990
+re 15,edge-list,287103,rev-edge-list,306911,vertex-pull,860072,vertex-push,351758,vertex-push-warp,1747880
+re 05,edge-list,126315,rev-edge-list,131188,vertex-pull,336744,vertex-push,165888,vertex-push-warp,714380
+rw 50,edge-list,34139200,rev-edge-list,36960200,vertex-pull,67824600,vertex-push,23100000,vertex-push-warp,112443000
+rw 30,edge-list,28226800,rev-edge-list,30014200,vertex-pull,62857300,vertex-push,21527300,vertex-push-warp,107733000
+rw 15,edge-list,3770890,rev-edge-list,3995020,vertex-pull,9107820,vertex-push,2927030,vertex-push-warp,14774600
+rw 05,edge-list,425440,rev-edge-list,476125,vertex-pull,970017,vertex-push,394854,vertex-push-warp,1769880
+,,,,,,,,,,
+wiki-Talk.txt,1,,2,,3,,4,,5,
+graph,edge-list,10674700,rev-edge-list,11174400,vertex-pull,22274900,vertex-push,5075510,vertex-push-warp,30386500
+ff 50,edge-list,14011600,rev-edge-list,14530800,vertex-pull,18843300,vertex-push,76896400,vertex-push-warp,55600700
+ff 30,edge-list,7642860,rev-edge-list,7865350,vertex-pull,10775200,vertex-push,79550100,vertex-push-warp,32887700
+ff 15,edge-list,3120560,rev-edge-list,3213160,vertex-pull,4429900,vertex-push,57328200,vertex-push-warp,14308900
+ff 05,edge-list,1017980,rev-edge-list,1020410,vertex-pull,1442890,vertex-push,36820700,vertex-push-warp,5397390
+re 50,edge-list,18016400,rev-edge-list,18958500,vertex-pull,25565300,vertex-push,128006000,vertex-push-warp,70896200
+re 30,edge-list,11047700,rev-edge-list,11557700,vertex-pull,17092100,vertex-push,63059400,vertex-push-warp,47231900
+re 15,edge-list,6212480,rev-edge-list,6452430,vertex-pull,10225400,vertex-push,32598800,vertex-push-warp,28591100
+re 05,edge-list,2954660,rev-edge-list,3017850,vertex-pull,4878460,vertex-push,6900240,vertex-push-warp,13082700
+rw 50,edge-list,24242200,rev-edge-list,25777000,vertex-pull,29938900,vertex-push,51712700,vertex-push-warp,78155500
+rw 30,edge-list,14020200,rev-edge-list,14899700,vertex-pull,19002000,vertex-push,24352100,vertex-push-warp,47083100
+rw 15,edge-list,7380290,rev-edge-list,7805430,vertex-pull,12106000,vertex-push,9591910,vertex-push-warp,28185800
+rw 05,edge-list,3326460,rev-edge-list,3497400,vertex-pull,6426310,vertex-push,3992510,vertex-push-warp,14262800
+,,,,,,,,,,
+com-amazon.ungraph.txt,1,,2,,3,,4,,5,
+graph,edge-list,69303200,rev-edge-list,72034200,vertex-pull,41384700,vertex-push,20882600,vertex-push-warp,84752800
+ff 50,edge-list,11990600,rev-edge-list,12256000,vertex-pull,12496100,vertex-push,5445260,vertex-push-warp,19811300
+ff 30,edge-list,6160140,rev-edge-list,6297180,vertex-pull,9063330,vertex-push,3986940,vertex-push-warp,11189300
+ff 15,edge-list,2902240,rev-edge-list,2943270,vertex-pull,3504140,vertex-push,2759250,vertex-push-warp,5624150
+ff 05,edge-list,1198980,rev-edge-list,1213630,vertex-pull,2093500,vertex-push,2109860,vertex-push-warp,2005770
+re 50,edge-list,4911030,rev-edge-list,5077530,vertex-pull,8123610,vertex-push,3243600,vertex-push-warp,16814800
+re 30,edge-list,541840,rev-edge-list,547174,vertex-pull,909734,vertex-push,436730,vertex-push-warp,2099900
+re 15,edge-list,236731,rev-edge-list,220995,vertex-pull,308048,vertex-push,176626,vertex-push-warp,727027
+re 05,edge-list,172545,rev-edge-list,152266,vertex-pull,169494,vertex-push,157961,vertex-push-warp,382870
+rw 50,edge-list,31541800,rev-edge-list,31593000,vertex-pull,33806600,vertex-push,16199000,vertex-push-warp,74944800
+rw 30,edge-list,572265,rev-edge-list,561338,vertex-pull,740601,vertex-push,295015,vertex-push-warp,1404980
+rw 15,edge-list,299450,rev-edge-list,291395,vertex-pull,363461,vertex-push,178426,vertex-push-warp,730166
+rw 05,edge-list,635738,rev-edge-list,608460,vertex-pull,482831,vertex-push,394033,vertex-push-warp,925028
+,,,,,,,,,,
+com-dblp.ungraph.txt,1,,2,,3,,4,,5,
+graph,edge-list,34683500,rev-edge-list,35621800,vertex-pull,19091700,vertex-push,10480800,vertex-push-warp,37879300
+ff 50,edge-list,7671510,rev-edge-list,7885760,vertex-pull,6001850,vertex-push,3329420,vertex-push-warp,10823800
+ff 30,edge-list,3678410,rev-edge-list,3744660,vertex-pull,3235200,vertex-push,2323850,vertex-push-warp,6338460
+ff 15,edge-list,1596930,rev-edge-list,1608830,vertex-pull,1390280,vertex-push,1707750,vertex-push-warp,3013610
+ff 05,edge-list,718809,rev-edge-list,679638,vertex-pull,799755,vertex-push,1266800,vertex-push-warp,1162380
+re 50,edge-list,11071900,rev-edge-list,11707400,vertex-pull,12228300,vertex-push,6545000,vertex-push-warp,29712000
+re 30,edge-list,7468620,rev-edge-list,7672390,vertex-pull,10928000,vertex-push,5585260,vertex-push-warp,26449300
+re 15,edge-list,359261,rev-edge-list,333173,vertex-pull,459152,vertex-push,253086,vertex-push-warp,1079120
+re 05,edge-list,158242,rev-edge-list,155410,vertex-pull,164657,vertex-push,155360,vertex-push-warp,346470
+rw 50,edge-list,12367700,rev-edge-list,12552200,vertex-pull,11464000,vertex-push,6088870,vertex-push-warp,26616500
+rw 30,edge-list,8397330,rev-edge-list,8443210,vertex-pull,9217820,vertex-push,4836900,vertex-push-warp,22053800
+rw 15,edge-list,6945740,rev-edge-list,6690150,vertex-pull,7771210,vertex-push,4301320,vertex-push-warp,18033300
+rw 05,edge-list,641646,rev-edge-list,599722,vertex-pull,459029,vertex-push,402039,vertex-push-warp,944535
+,,,,,,,,,,
+com-lj.ungraph.txt,1,,2,,3,,4,,5,
+graph,edge-list,1044520000,rev-edge-list,1152010000,vertex-pull,432860000,vertex-push,200236000,vertex-push-warp,453016000
+ff 50,edge-list,201418000,rev-edge-list,219769000,vertex-pull,143834000,vertex-push,69914500,vertex-push-warp,127292000
+ff 30,edge-list,69810400,rev-edge-list,74922400,vertex-pull,63808500,vertex-push,44633700,vertex-push-warp,63381900
+ff 15,edge-list,24121600,rev-edge-list,25432900,vertex-pull,32886000,vertex-push,32311200,vertex-push-warp,31707600
+ff 05,edge-list,4995130,rev-edge-list,5161200,vertex-pull,10153400,vertex-push,10974900,vertex-push-warp,8936290
+re 50,edge-list,214489000,rev-edge-list,252438000,vertex-pull,184315000,vertex-push,88708800,vertex-push-warp,407793000
+re 30,edge-list,121507000,rev-edge-list,137365000,vertex-pull,162190000,vertex-push,69329100,vertex-push-warp,365043000
+re 15,edge-list,1936930,rev-edge-list,2042220,vertex-pull,3761770,vertex-push,1346110,vertex-push-warp,7804660
+re 05,edge-list,603215,rev-edge-list,596775,vertex-pull,1116250,vertex-push,516442,vertex-push-warp,2747960
+rw 50,edge-list,186552000,rev-edge-list,207901000,vertex-pull,152460000,vertex-push,71697300,vertex-push-warp,334554000
+rw 30,edge-list,161457000,rev-edge-list,171619000,vertex-pull,159593000,vertex-push,70957200,vertex-push-warp,378627000
+rw 15,edge-list,61951700,rev-edge-list,63327800,vertex-pull,70814000,vertex-push,33837000,vertex-push-warp,176731000
+rw 05,edge-list,50351100,rev-edge-list,50620800,vertex-pull,64249300,vertex-push,30450900,vertex-push-warp,157181000
+,,,,,,,,,,
+com-youtube.ungraph.txt,1,,2,,3,,4,,5,
+graph,edge-list,90338900,rev-edge-list,96388700,vertex-pull,85093800,vertex-push,99424600,vertex-push-warp,119586000
+ff 50,edge-list,10851400,rev-edge-list,11497800,vertex-pull,71381200,vertex-push,1892880,vertex-push-warp,10949200
+ff 30,edge-list,11027600,rev-edge-list,11607400,vertex-pull,33655400,vertex-push,57052600,vertex-push-warp,15469600
+ff 15,edge-list,5590370,rev-edge-list,5803310,vertex-pull,85160900,vertex-push,58922400,vertex-push-warp,10279000
+ff 05,edge-list,1231270,rev-edge-list,1230900,vertex-pull,29752400,vertex-push,46518400,vertex-push-warp,4457330
+re 50,edge-list,36078100,rev-edge-list,40356700,vertex-pull,38786800,vertex-push,42936100,vertex-push-warp,72132100
+re 30,edge-list,18912100,rev-edge-list,20720900,vertex-pull,37015300,vertex-push,19551800,vertex-push-warp,47693800
+re 15,edge-list,797237,rev-edge-list,846768,vertex-pull,3323100,vertex-push,440476,vertex-push-warp,2251330
+re 05,edge-list,289656,rev-edge-list,283495,vertex-pull,860207,vertex-push,220774,vertex-push-warp,885927
+rw 50,edge-list,38841700,rev-edge-list,42019300,vertex-pull,53429900,vertex-push,47171000,vertex-push-warp,73844600
+rw 30,edge-list,24551900,rev-edge-list,26023600,vertex-pull,33029800,vertex-push,26823700,vertex-push-warp,53500100
+rw 15,edge-list,10752500,rev-edge-list,10989400,vertex-pull,14682800,vertex-push,10894100,vertex-push-warp,25992300
+rw 05,edge-list,5149520,rev-edge-list,5002370,vertex-pull,7784100,vertex-push,5659190,vertex-push-warp,13745800
+,,,,,,,,,,
+email-Enron.txt,1,,2,,3,,4,,5,
+graph,edge-list,4423030,rev-edge-list,4578260,vertex-pull,5615400,vertex-push,6336570,vertex-push-warp,4227960
+ff 50,edge-list,1157630,rev-edge-list,1185970,vertex-pull,2856510,vertex-push,4806080,vertex-push-warp,1750500
+ff 30,edge-list,456771,rev-edge-list,424089,vertex-pull,2556530,vertex-push,2835450,vertex-push-warp,1137000
+ff 15,edge-list,260843,rev-edge-list,258430,vertex-pull,1849340,vertex-push,2197300,vertex-push-warp,1026570
+ff 05,edge-list,240556,rev-edge-list,238678,vertex-pull,1781000,vertex-push,2164120,vertex-push-warp,801320
+re 50,edge-list,1713150,rev-edge-list,1705040,vertex-pull,1957330,vertex-push,2353970,vertex-push-warp,1932480
+re 30,edge-list,1174710,rev-edge-list,1127940,vertex-pull,2030170,vertex-push,1418640,vertex-push-warp,1664820
+re 15,edge-list,939036,rev-edge-list,803778,vertex-pull,1434540,vertex-push,1162350,vertex-push-warp,1871840
+re 05,edge-list,116023,rev-edge-list,102895,vertex-pull,119608,vertex-push,102487,vertex-push-warp,221240
+rw 50,edge-list,1763950,rev-edge-list,1742900,vertex-pull,3430410,vertex-push,3011070,vertex-push-warp,2092180
+rw 30,edge-list,1625370,rev-edge-list,1537700,vertex-pull,2918330,vertex-push,2244530,vertex-push-warp,2262180
+rw 15,edge-list,1192830,rev-edge-list,1011670,vertex-pull,2493670,vertex-push,1786350,vertex-push-warp,2390260
+rw 05,edge-list,169674,rev-edge-list,172001,vertex-pull,319271,vertex-push,150381,vertex-push-warp,331743
+,,,,,,,,,,
+facebook_combined.txt,1,,2,,3,,4,,5,
+graph,edge-list,1688910,rev-edge-list,1686120,vertex-pull,2122840,vertex-push,5842830,vertex-push-warp,1602020
+ff 50,edge-list,226381,rev-edge-list,201782,vertex-pull,748242,vertex-push,3055470,vertex-push-warp,727095
+ff 30,edge-list,222107,rev-edge-list,199886,vertex-pull,250699,vertex-push,2072050,vertex-push-warp,698863
+ff 15,edge-list,164687,rev-edge-list,145878,vertex-pull,153044,vertex-push,1098390,vertex-push-warp,495797
+ff 05,edge-list,117985,rev-edge-list,105110,vertex-pull,103170,vertex-push,462029,vertex-push-warp,307041
+re 50,edge-list,1981820,rev-edge-list,1696980,vertex-pull,2492720,vertex-push,1981410,vertex-push-warp,4033110
+re 30,edge-list,872763,rev-edge-list,730127,vertex-pull,923621,vertex-push,803106,vertex-push-warp,1736820
+re 15,edge-list,113537,rev-edge-list,103262,vertex-pull,118928,vertex-push,103662,vertex-push-warp,225660
+re 05,edge-list,115160,rev-edge-list,102600,vertex-pull,107704,vertex-push,99546,vertex-push-warp,228259
+rw 50,edge-list,811733,rev-edge-list,750600,vertex-pull,1424800,vertex-push,1139320,vertex-push-warp,1861070
+rw 30,edge-list,867905,rev-edge-list,778277,vertex-pull,1235160,vertex-push,949965,vertex-push-warp,1898650
+rw 15,edge-list,322537,rev-edge-list,277298,vertex-pull,373525,vertex-push,306484,vertex-push-warp,720312
+rw 05,edge-list,521296,rev-edge-list,459527,vertex-pull,519691,vertex-push,494051,vertex-push-warp,1087020
+,,,,,,,,,,
+soc-Slashdot0811.txt,1,,2,,3,,4,,5,
+graph,edge-list,8278040,rev-edge-list,8942990,vertex-pull,4587420,vertex-push,10366800,vertex-push-warp,5706080
+ff 50,edge-list,1130330,rev-edge-list,1148260,vertex-pull,1029420,vertex-push,5569430,vertex-push-warp,1724300
+ff 30,edge-list,481457,rev-edge-list,498201,vertex-pull,610380,vertex-push,5664080,vertex-push-warp,1361360
+ff 15,edge-list,255320,rev-edge-list,214272,vertex-pull,270571,vertex-push,5365150,vertex-push-warp,1047670
+ff 05,edge-list,163933,rev-edge-list,146273,vertex-pull,170879,vertex-push,2288520,vertex-push-warp,544377
+re 50,edge-list,1891220,rev-edge-list,1957420,vertex-pull,1841670,vertex-push,1992350,vertex-push-warp,4085060
+re 30,edge-list,1541190,rev-edge-list,1648250,vertex-pull,1947900,vertex-push,1612060,vertex-push-warp,3889110
+re 15,edge-list,174062,rev-edge-list,169936,vertex-pull,235141,vertex-push,181116,vertex-push-warp,326450
+re 05,edge-list,171270,rev-edge-list,161219,vertex-pull,171667,vertex-push,148522,vertex-push-warp,315479
+rw 50,edge-list,1843400,rev-edge-list,1894880,vertex-pull,1970840,vertex-push,2084660,vertex-push-warp,3959410
+rw 30,edge-list,1234860,rev-edge-list,1224790,vertex-pull,1645650,vertex-push,1438330,vertex-push-warp,3107850
+rw 15,edge-list,1212580,rev-edge-list,1112830,vertex-pull,1397110,vertex-push,1405210,vertex-push-warp,2569960
+rw 05,edge-list,2268320,rev-edge-list,2057350,vertex-pull,2274100,vertex-push,2122400,vertex-push-warp,4539740
+,,,,,,,,,,
+soc-Slashdot0902.txt,1,,2,,3,,4,,5,
+graph,edge-list,9686520,rev-edge-list,10471500,vertex-pull,4923560,vertex-push,11257400,vertex-push-warp,7023500
+ff 50,edge-list,1208870,rev-edge-list,1244750,vertex-pull,1189000,vertex-push,5701700,vertex-push-warp,1966700
+ff 30,edge-list,507965,rev-edge-list,496315,vertex-pull,568260,vertex-push,5691960,vertex-push-warp,1482730
+ff 15,edge-list,253168,rev-edge-list,223422,vertex-pull,311190,vertex-push,5255190,vertex-push-warp,1077290
+ff 05,edge-list,179484,rev-edge-list,145210,vertex-pull,163838,vertex-push,2387440,vertex-push-warp,562584
+re 50,edge-list,1882310,rev-edge-list,1980130,vertex-pull,2198570,vertex-push,2060100,vertex-push-warp,5074480
+re 30,edge-list,1384390,rev-edge-list,1404040,vertex-pull,1724820,vertex-push,1465140,vertex-push-warp,3364160
+re 15,edge-list,288847,rev-edge-list,337711,vertex-pull,532622,vertex-push,297201,vertex-push-warp,646378
+re 05,edge-list,103457,rev-edge-list,108765,vertex-pull,122678,vertex-push,102123,vertex-push-warp,210465
+rw 50,edge-list,2012200,rev-edge-list,2082740,vertex-pull,2434840,vertex-push,2365380,vertex-push-warp,5295180
+rw 30,edge-list,1455100,rev-edge-list,1541260,vertex-pull,1758480,vertex-push,1608360,vertex-push-warp,3552770
+rw 15,edge-list,1035300,rev-edge-list,1037580,vertex-pull,1294950,vertex-push,1234830,vertex-push-warp,2383330
+rw 05,edge-list,2156400,rev-edge-list,2036740,vertex-pull,2165700,vertex-push,2080690,vertex-push-warp,4393590
+,,,,,,,,,,
+wiki-Vote.txt,1,,2,,3,,4,,5,
+graph,edge-list,905191,rev-edge-list,963683,vertex-pull,1306800,vertex-push,3815580,vertex-push-warp,1055480
+ff 50,edge-list,535909,rev-edge-list,551502,vertex-pull,699105,vertex-push,2559880,vertex-push-warp,863390
+ff 30,edge-list,332986,rev-edge-list,304179,vertex-pull,458510,vertex-push,2372540,vertex-push-warp,758504
+ff 15,edge-list,122054,rev-edge-list,107224,vertex-pull,134391,vertex-push,123178,vertex-push-warp,229466
+ff 05,edge-list,122802,rev-edge-list,117700,vertex-pull,107348,vertex-push,106164,vertex-push-warp,225611
+re 50,edge-list,638099,rev-edge-list,565678,vertex-pull,775412,vertex-push,1167690,vertex-push-warp,1277220
+re 30,edge-list,177016,rev-edge-list,149304,vertex-pull,182807,vertex-push,147137,vertex-push-warp,331911
+re 15,edge-list,116084,rev-edge-list,105934,vertex-pull,111854,vertex-push,103809,vertex-push-warp,225907
+re 05,edge-list,122334,rev-edge-list,106480,vertex-pull,110423,vertex-push,98081,vertex-push-warp,226884
+rw 50,edge-list,740493,rev-edge-list,640757,vertex-pull,892534,vertex-push,975626,vertex-push-warp,1447270
+rw 30,edge-list,997429,rev-edge-list,886330,vertex-pull,1022320,vertex-push,976867,vertex-push-warp,1973960
+rw 15,edge-list,112943,rev-edge-list,102733,vertex-pull,113126,vertex-push,101052,vertex-push-warp,226067
+rw 05,edge-list,460675,rev-edge-list,389612,vertex-pull,399737,vertex-push,385630,vertex-push-warp,870077
+,,,,,,,,,,
+actor-collaboration.edges,1,,2,,3,,4,,5,
+graph,edge-list,322463000,rev-edge-list,341709000,vertex-pull,82227400,vertex-push,58844500,vertex-push-warp,48119600
+ff 50,edge-list,38163000,rev-edge-list,40982800,vertex-pull,13167000,vertex-push,22200700,vertex-push-warp,12017200
+ff 30,edge-list,20258200,rev-edge-list,21851600,vertex-pull,7514720,vertex-push,17521100,vertex-push-warp,7634120
+ff 15,edge-list,9706960,rev-edge-list,10414200,vertex-pull,6232320,vertex-push,14209600,vertex-push-warp,5607560
+ff 05,edge-list,1185910,rev-edge-list,1269270,vertex-pull,3439980,vertex-push,10766400,vertex-push-warp,3166100
+re 50,edge-list,17996200,rev-edge-list,19501400,vertex-pull,15729200,vertex-push,8339060,vertex-push-warp,38533500
+re 30,edge-list,566414,rev-edge-list,593405,vertex-pull,829662,vertex-push,329404,vertex-push-warp,1573330
+re 15,edge-list,297412,rev-edge-list,290041,vertex-pull,410162,vertex-push,220641,vertex-push-warp,883502
+re 05,edge-list,312097,rev-edge-list,307206,vertex-pull,361693,vertex-push,312716,vertex-push-warp,722591
+rw 50,edge-list,18609200,rev-edge-list,19749900,vertex-pull,14923600,vertex-push,7755320,vertex-push-warp,34199900
+rw 30,edge-list,1142710,rev-edge-list,1169970,vertex-pull,1317220,vertex-push,486979,vertex-push-warp,2353970
+rw 15,edge-list,729324,rev-edge-list,707798,vertex-pull,848139,vertex-push,423813,vertex-push-warp,1756780
+rw 05,edge-list,6794450,rev-edge-list,6333540,vertex-pull,4540460,vertex-push,4197240,vertex-push-warp,9699010
+,,,,,,,,,,
+arenas-jazz.edges,1,,2,,3,,4,,5,
+graph,edge-list,283515,rev-edge-list,289236,vertex-pull,482362,vertex-push,849414,vertex-push-warp,936858
+ff 50,edge-list,149498,rev-edge-list,151406,vertex-pull,167345,vertex-push,310190,vertex-push-warp,478027
+ff 30,edge-list,177193,rev-edge-list,149625,vertex-pull,150961,vertex-push,246681,vertex-push-warp,433133
+ff 15,edge-list,147215,rev-edge-list,147449,vertex-pull,150627,vertex-push,213532,vertex-push-warp,388414
+ff 05,edge-list,101392,rev-edge-list,101337,vertex-pull,102635,vertex-push,117876,vertex-push-warp,190093
+re 50,edge-list,102597,rev-edge-list,102409,vertex-pull,118253,vertex-push,100330,vertex-push-warp,223033
+re 30,edge-list,105411,rev-edge-list,99683,vertex-pull,113949,vertex-push,117336,vertex-push-warp,229762
+re 15,edge-list,103978,rev-edge-list,100560,vertex-pull,111952,vertex-push,107698,vertex-push-warp,221959
+re 05,edge-list,101014,rev-edge-list,100641,vertex-pull,106763,vertex-push,107409,vertex-push-warp,170717
+rw 50,edge-list,568571,rev-edge-list,560366,vertex-pull,625878,vertex-push,620848,vertex-push-warp,1371460
+rw 30,edge-list,516927,rev-edge-list,515055,vertex-pull,578807,vertex-push,574772,vertex-push-warp,1233700
+rw 15,edge-list,104577,rev-edge-list,102949,vertex-pull,115487,vertex-push,106609,vertex-push-warp,219771
+rw 05,edge-list,105074,rev-edge-list,104867,vertex-pull,107225,vertex-push,102050,vertex-push-warp,166795
+,,,,,,,,,,
+as-caida20071105.edges,1,,2,,3,,4,,5,
+graph,edge-list,2448370,rev-edge-list,2510940,vertex-pull,5248440,vertex-push,9881500,vertex-push-warp,3989780
+ff 50,edge-list,453086,rev-edge-list,422317,vertex-pull,2614090,vertex-push,5598420,vertex-push-warp,1161340
+ff 30,edge-list,277327,rev-edge-list,276950,vertex-pull,2463120,vertex-push,5427550,vertex-push-warp,1086450
+ff 15,edge-list,197652,rev-edge-list,198761,vertex-pull,2077540,vertex-push,4732780,vertex-push-warp,760865
+ff 05,edge-list,191201,rev-edge-list,193853,vertex-pull,1108950,vertex-push,2115640,vertex-push-warp,638641
+re 50,edge-list,873270,rev-edge-list,1023160,vertex-pull,1614110,vertex-push,3619490,vertex-push-warp,1611770
+re 30,edge-list,106479,rev-edge-list,109496,vertex-pull,976610,vertex-push,106208,vertex-push-warp,215010
+re 15,edge-list,608154,rev-edge-list,615396,vertex-pull,1671310,vertex-push,1765290,vertex-push-warp,1495360
+re 05,edge-list,467540,rev-edge-list,458240,vertex-pull,911310,vertex-push,640550,vertex-push-warp,1099940
+rw 50,edge-list,925566,rev-edge-list,961598,vertex-pull,2825640,vertex-push,3777510,vertex-push-warp,1560970
+rw 30,edge-list,110704,rev-edge-list,112965,vertex-pull,1206400,vertex-push,101199,vertex-push-warp,212841
+rw 15,edge-list,660185,rev-edge-list,658614,vertex-pull,1419620,vertex-push,1868270,vertex-push-warp,1675100
+rw 05,edge-list,823110,rev-edge-list,818514,vertex-pull,1292490,vertex-push,1299730,vertex-push-warp,2058170
+,,,,,,,,,,
+as-skitter.edges,1,,2,,3,,4,,5,
+ff 50,edge-list,50816600,rev-edge-list,53631900,vertex-pull,65436400,vertex-push,93071000,vertex-push-warp,46166100
+ff 30,edge-list,23724900,rev-edge-list,24797600,vertex-pull,42340800,vertex-push,73245700,vertex-push-warp,30609500
+ff 15,edge-list,4226400,rev-edge-list,4354330,vertex-pull,23350800,vertex-push,45290300,vertex-push-warp,10318700
+ff 05,edge-list,1250780,rev-edge-list,1260390,vertex-pull,14419200,vertex-push,25576200,vertex-push-warp,4768880
+re 50,edge-list,67985200,rev-edge-list,77386600,vertex-pull,79401500,vertex-push,49283800,vertex-push-warp,135132000
+re 30,edge-list,33338100,rev-edge-list,37082700,vertex-pull,48478100,vertex-push,26001700,vertex-push-warp,91208500
+re 15,edge-list,1530390,rev-edge-list,1621210,vertex-pull,3401920,vertex-push,939626,vertex-push-warp,5141230
+re 05,edge-list,520246,rev-edge-list,520544,vertex-pull,1016020,vertex-push,414994,vertex-push-warp,1840460
+rw 50,edge-list,65783200,rev-edge-list,71280900,vertex-pull,63061000,vertex-push,42105400,vertex-push-warp,121308000
+rw 30,edge-list,69402600,rev-edge-list,72996700,vertex-pull,68599300,vertex-push,33949800,vertex-push-warp,149798000
+rw 15,edge-list,21484700,rev-edge-list,22048500,vertex-pull,27526800,vertex-push,14932400,vertex-push-warp,55668700
+rw 05,edge-list,701600,rev-edge-list,705041,vertex-pull,1179600,vertex-push,412978,vertex-push-warp,1842510
+,,,,,,,,,,
+ca-AstroPh.edges,1,,2,,3,,4,,5,
+graph,edge-list,4697230,rev-edge-list,4845770,vertex-pull,1738920,vertex-push,3172500,vertex-push-warp,2271030
+ff 50,edge-list,708577,rev-edge-list,705154,vertex-pull,822839,vertex-push,1834500,vertex-push-warp,1034140
+ff 15,edge-list,222852,rev-edge-list,201122,vertex-pull,486357,vertex-push,1255710,vertex-push-warp,790788
+ff 05,edge-list,174596,rev-edge-list,146068,vertex-pull,148236,vertex-push,648477,vertex-push-warp,516121
+re 50,edge-list,1298040,rev-edge-list,1217820,vertex-pull,1274080,vertex-push,1386720,vertex-push-warp,2635950
+re 30,edge-list,1306430,rev-edge-list,1128900,vertex-pull,1280890,vertex-push,1340480,vertex-push-warp,2590460
+re 15,edge-list,165672,rev-edge-list,143919,vertex-pull,162050,vertex-push,156367,vertex-push-warp,327194
+re 05,edge-list,118993,rev-edge-list,98862,vertex-pull,108780,vertex-push,103923,vertex-push-warp,224999
+rw 50,edge-list,1526640,rev-edge-list,1492450,vertex-pull,1159880,vertex-push,1205560,vertex-push-warp,2215700
+rw 30,edge-list,1308920,rev-edge-list,1191890,vertex-pull,1370630,vertex-push,1414040,vertex-push-warp,2802970
+rw 15,edge-list,1712850,rev-edge-list,1518640,vertex-pull,1754400,vertex-push,1755170,vertex-push-warp,3716880
+rw 05,edge-list,157892,rev-edge-list,147290,vertex-pull,161587,vertex-push,147396,vertex-push-warp,347509
+,,,,,,,,,,
+ca-cit-HepPh.edges,1,,2,,3,,4,,5,
+graph,edge-list,40751300,rev-edge-list,43073100,vertex-pull,10773800,vertex-push,24977000,vertex-push-warp,6554560
+ff 50,edge-list,881681,rev-edge-list,890503,vertex-pull,2894630,vertex-push,10225100,vertex-push-warp,2441920
+ff 30,edge-list,336231,rev-edge-list,352137,vertex-pull,187321,vertex-push,5487510,vertex-push-warp,1293940
+ff 15,edge-list,175935,rev-edge-list,165070,vertex-pull,160738,vertex-push,3095870,vertex-push-warp,922145
+ff 05,edge-list,161912,rev-edge-list,147431,vertex-pull,153255,vertex-push,1977790,vertex-push-warp,585311
+re 50,edge-list,1497730,rev-edge-list,1511290,vertex-pull,1057020,vertex-push,1147290,vertex-push-warp,2055180
+re 30,edge-list,2105430,rev-edge-list,1925930,vertex-pull,2287370,vertex-push,2181710,vertex-push-warp,4299080
+re 15,edge-list,114231,rev-edge-list,99863,vertex-pull,113716,vertex-push,104222,vertex-push-warp,216373
+re 05,edge-list,109984,rev-edge-list,102392,vertex-pull,104855,vertex-push,103365,vertex-push-warp,224797
+rw 50,edge-list,1201990,rev-edge-list,1230800,vertex-pull,948027,vertex-push,1033680,vertex-push-warp,1729250
+rw 30,edge-list,1262470,rev-edge-list,1230370,vertex-pull,1348010,vertex-push,1391270,vertex-push-warp,2711410
+rw 15,edge-list,153228,rev-edge-list,150104,vertex-pull,174934,vertex-push,151254,vertex-push-warp,312991
+rw 05,edge-list,4519000,rev-edge-list,4198520,vertex-pull,4594300,vertex-push,4546280,vertex-push-warp,10081600
+,,,,,,,,,,
+ca-cit-HepTh.edges,1,,2,,3,,4,,5,
+graph,edge-list,36811600,rev-edge-list,39107600,vertex-pull,12601200,vertex-push,36453200,vertex-push-warp,9069060
+ff 50,edge-list,1168470,rev-edge-list,1212640,vertex-pull,3847650,vertex-push,16516000,vertex-push-warp,3637320
+ff 30,edge-list,250795,rev-edge-list,252401,vertex-pull,156540,vertex-push,8607440,vertex-push-warp,1211540
+ff 15,edge-list,156070,rev-edge-list,155294,vertex-pull,149449,vertex-push,4936950,vertex-push-warp,682773
+ff 05,edge-list,157051,rev-edge-list,168322,vertex-pull,144431,vertex-push,1856230,vertex-push-warp,539148
+re 50,edge-list,1267390,rev-edge-list,1268800,vertex-pull,946023,vertex-push,1130750,vertex-push-warp,1683300
+re 30,edge-list,962615,rev-edge-list,880947,vertex-pull,1085240,vertex-push,1132770,vertex-push-warp,2006690
+re 15,edge-list,115682,rev-edge-list,99607,vertex-pull,127351,vertex-push,102854,vertex-push-warp,211819
+re 05,edge-list,108928,rev-edge-list,98573,vertex-pull,108824,vertex-push,103892,vertex-push-warp,225163
+rw 50,edge-list,1246130,rev-edge-list,1242610,vertex-pull,1330910,vertex-push,1303710,vertex-push-warp,1837130
+rw 30,edge-list,1353550,rev-edge-list,1284520,vertex-pull,1556400,vertex-push,1520510,vertex-push-warp,2898020
+rw 15,edge-list,1478280,rev-edge-list,1342180,vertex-pull,1615330,vertex-push,1568970,vertex-push-warp,3107200
+rw 05,edge-list,164983,rev-edge-list,142708,vertex-pull,165353,vertex-push,151162,vertex-push-warp,327443
+,,,,,,,,,,
+cfinder-google.edges,1,,2,,3,,4,,5,
+graph,edge-list,3446380,rev-edge-list,3486950,vertex-pull,14085800,vertex-push,6772600,vertex-push-warp,2637130
+ff 50,edge-list,857870,rev-edge-list,810928,vertex-pull,4205820,vertex-push,3880800,vertex-push-warp,1385910
+ff 30,edge-list,375427,rev-edge-list,342220,vertex-pull,1541430,vertex-push,2009370,vertex-push-warp,1021330
+ff 15,edge-list,302474,rev-edge-list,290675,vertex-pull,730731,vertex-push,1611820,vertex-push-warp,866876
+ff 05,edge-list,261560,rev-edge-list,239881,vertex-pull,368313,vertex-push,959925,vertex-push-warp,696060
+re 50,edge-list,227870,rev-edge-list,194922,vertex-pull,3136310,vertex-push,197961,vertex-push-warp,430118
+re 30,edge-list,115669,rev-edge-list,102810,vertex-pull,497563,vertex-push,102019,vertex-push-warp,213448
+re 15,edge-list,110156,rev-edge-list,99864,vertex-pull,356569,vertex-push,102094,vertex-push-warp,221352
+rw 50,edge-list,716449,rev-edge-list,639209,vertex-pull,1826440,vertex-push,1288690,vertex-push-warp,1784650
+rw 30,edge-list,748251,rev-edge-list,649263,vertex-pull,1345000,vertex-push,1140600,vertex-push-warp,1793920
+rw 15,edge-list,499133,rev-edge-list,426457,vertex-pull,686779,vertex-push,682840,vertex-push-warp,1176700
+rw 05,edge-list,584860,rev-edge-list,511236,vertex-pull,606574,vertex-push,638677,vertex-push-warp,1367920
+,,,,,,,,,,
+chess.edges,1,,2,,3,,4,,5,
+graph,edge-list,1175660,rev-edge-list,1168980,vertex-pull,856488,vertex-push,1333240,vertex-push-warp,1578560
+ff 50,edge-list,281764,rev-edge-list,260921,vertex-pull,438609,vertex-push,655515,vertex-push-warp,804482
+ff 30,edge-list,279695,rev-edge-list,244351,vertex-pull,309621,vertex-push,612291,vertex-push-warp,711173
+ff 15,edge-list,211450,rev-edge-list,194088,vertex-pull,214964,vertex-push,428646,vertex-push-warp,604832
+ff 05,edge-list,224866,rev-edge-list,189816,vertex-pull,196576,vertex-push,375333,vertex-push-warp,536352
+re 50,edge-list,762139,rev-edge-list,708574,vertex-pull,793173,vertex-push,860819,vertex-push-warp,1680340
+re 30,edge-list,1116140,rev-edge-list,997859,vertex-pull,1134620,vertex-push,1104540,vertex-push-warp,2381680
+re 15,edge-list,112679,rev-edge-list,101772,vertex-pull,105833,vertex-push,102590,vertex-push-warp,225886
+re 05,edge-list,112994,rev-edge-list,98183,vertex-pull,103853,vertex-push,99226,vertex-push-warp,225799
+rw 50,edge-list,833250,rev-edge-list,810631,vertex-pull,888791,vertex-push,922624,vertex-push-warp,1938390
+rw 30,edge-list,1073340,rev-edge-list,1010990,vertex-pull,1100540,vertex-push,1116140,vertex-push-warp,2454450
+rw 15,edge-list,1984570,rev-edge-list,1825740,vertex-pull,1940940,vertex-push,1897000,vertex-push-warp,4344350
+rw 05,edge-list,110355,rev-edge-list,97813,vertex-pull,108499,vertex-push,98783,vertex-push-warp,222707
+,,,,,,,,,,
+com-amazon.edges,1,,2,,3,,4,,5,
+graph,edge-list,68847000,rev-edge-list,69961100,vertex-pull,42139200,vertex-push,20522900,vertex-push-warp,87447300
+ff 50,edge-list,11409900,rev-edge-list,11633100,vertex-pull,12832200,vertex-push,5449490,vertex-push-warp,17929200
+ff 30,edge-list,6023330,rev-edge-list,6057300,vertex-pull,7050360,vertex-push,3345370,vertex-push-warp,10527700
+ff 05,edge-list,991694,rev-edge-list,981784,vertex-pull,1697300,vertex-push,1646480,vertex-push-warp,1656450
+re 50,edge-list,1028530,rev-edge-list,1075920,vertex-pull,1621270,vertex-push,658341,vertex-push-warp,3374310
+re 30,edge-list,726037,rev-edge-list,745974,vertex-pull,1207810,vertex-push,574119,vertex-push-warp,2797800
+re 15,edge-list,233553,rev-edge-list,237246,vertex-pull,308518,vertex-push,173197,vertex-push-warp,725432
+re 05,edge-list,111211,rev-edge-list,116618,vertex-pull,115545,vertex-push,107350,vertex-push-warp,241241
+rw 50,edge-list,27964500,rev-edge-list,28420800,vertex-pull,30338000,vertex-push,14736500,vertex-push-warp,67084100
+rw 30,edge-list,569143,rev-edge-list,567789,vertex-pull,727276,vertex-push,293960,vertex-push-warp,1407550
+rw 15,edge-list,888947,rev-edge-list,865839,vertex-pull,1109940,vertex-push,510638,vertex-push-warp,2152070
+rw 05,edge-list,258538,rev-edge-list,252712,vertex-pull,183418,vertex-push,154578,vertex-push-warp,376829
+,,,,,,,,,,
+com-dblp.edges,1,,2,,3,,4,,5,
+graph,edge-list,34423500,rev-edge-list,35346800,vertex-pull,18304000,vertex-push,9409840,vertex-push-warp,36869800
+ff 50,edge-list,6740050,rev-edge-list,6958680,vertex-pull,5510080,vertex-push,3068050,vertex-push-warp,9554910
+ff 30,edge-list,3643920,rev-edge-list,3753460,vertex-pull,3187950,vertex-push,2304040,vertex-push-warp,6459710
+ff 15,edge-list,1588750,rev-edge-list,1619160,vertex-pull,1323930,vertex-push,1724070,vertex-push-warp,3023810
+ff 05,edge-list,729620,rev-edge-list,689011,vertex-pull,789474,vertex-push,1367300,vertex-push-warp,1193830
+re 50,edge-list,796324,rev-edge-list,850929,vertex-pull,1094150,vertex-push,409714,vertex-push-warp,2083800
+re 30,edge-list,394806,rev-edge-list,405222,vertex-pull,640178,vertex-push,287170,vertex-push-warp,1400840
+re 15,edge-list,239110,rev-edge-list,227898,vertex-pull,316184,vertex-push,174462,vertex-push-warp,726551
+re 05,edge-list,110749,rev-edge-list,106557,vertex-pull,110176,vertex-push,101369,vertex-push-warp,231619
+rw 50,edge-list,13922400,rev-edge-list,14222600,vertex-pull,12629600,vertex-push,6694950,vertex-push-warp,29633100
+rw 30,edge-list,9104150,rev-edge-list,9043840,vertex-pull,9784790,vertex-push,5133450,vertex-push-warp,23358500
+rw 15,edge-list,6042780,rev-edge-list,5860170,vertex-pull,6694190,vertex-push,3841990,vertex-push-warp,15778500
+rw 05,edge-list,4987040,rev-edge-list,4575970,vertex-pull,3431100,vertex-push,3187230,vertex-push-warp,7000010
+,,,,,,,,,,
+com-youtube.edges,1,,2,,3,,4,,5,
+graph,edge-list,90111500,rev-edge-list,95746900,vertex-pull,84043300,vertex-push,98685000,vertex-push-warp,115499000
+ff 50,edge-list,18821000,rev-edge-list,19890000,vertex-pull,39499600,vertex-push,62782500,vertex-push-warp,26147900
+ff 30,edge-list,9884290,rev-edge-list,10348800,vertex-pull,32608800,vertex-push,54950500,vertex-push-warp,15292900
+ff 15,edge-list,3982280,rev-edge-list,4098980,vertex-pull,27052000,vertex-push,50235100,vertex-push-warp,9009840
+ff 05,edge-list,934582,rev-edge-list,938532,vertex-pull,11102700,vertex-push,22895700,vertex-push-warp,3614170
+re 50,edge-list,5809170,rev-edge-list,6541620,vertex-pull,30590100,vertex-push,1895680,vertex-push-warp,10952900
+re 30,edge-list,16186200,rev-edge-list,17782100,vertex-pull,23631800,vertex-push,22241800,vertex-push-warp,41018000
+re 15,edge-list,801020,rev-edge-list,851435,vertex-pull,3312440,vertex-push,444206,vertex-push-warp,2250920
+re 05,edge-list,5335010,rev-edge-list,5326010,vertex-pull,8999310,vertex-push,5244130,vertex-push-warp,17083200
+rw 50,edge-list,34603300,rev-edge-list,37468100,vertex-pull,45196000,vertex-push,37531900,vertex-push-warp,66417900
+rw 15,edge-list,11694000,rev-edge-list,11977000,vertex-pull,20509300,vertex-push,12978300,vertex-push-warp,28294500
+rw 05,edge-list,879902,rev-edge-list,852235,vertex-pull,3103030,vertex-push,522398,vertex-push-warp,2192000
+,,,,,,,,,,
+contiguous-usa.edges,1,,2,,3,,4,,5,
+graph,edge-list,419956,rev-edge-list,419314,vertex-pull,453100,vertex-push,498764,vertex-push-warp,1022610
+ff 50,edge-list,245101,rev-edge-list,239290,vertex-pull,252976,vertex-push,282230,vertex-push-warp,548685
+ff 30,edge-list,194035,rev-edge-list,197291,vertex-pull,199734,vertex-push,223237,vertex-push-warp,379271
+ff 15,edge-list,146970,rev-edge-list,150971,vertex-pull,143803,vertex-push,162994,vertex-push-warp,253140
+ff 05,edge-list,105627,rev-edge-list,106212,vertex-pull,95812,vertex-push,106603,vertex-push-warp,161828
+re 50,edge-list,106101,rev-edge-list,100878,vertex-pull,107665,vertex-push,108005,vertex-push-warp,206980
+re 30,edge-list,198541,rev-edge-list,196843,vertex-pull,200775,vertex-push,204376,vertex-push-warp,348188
+re 15,edge-list,101907,rev-edge-list,104757,vertex-pull,104755,vertex-push,106726,vertex-push-warp,165633
+re 05,edge-list,100322,rev-edge-list,104773,vertex-pull,100783,vertex-push,107114,vertex-push-warp,156698
+rw 50,edge-list,430534,rev-edge-list,430088,vertex-pull,451115,vertex-push,474782,vertex-push-warp,905237
+rw 30,edge-list,100773,rev-edge-list,104741,vertex-pull,109327,vertex-push,102493,vertex-push-warp,183314
+rw 15,edge-list,100868,rev-edge-list,100205,vertex-pull,108917,vertex-push,102853,vertex-push-warp,166248
+rw 05,edge-list,105130,rev-edge-list,101063,vertex-pull,104580,vertex-push,106557,vertex-push-warp,156357
+,,,,,,,,,,
+dblp_coauthor.edges,1,,2,,3,,4,,5,
+graph,edge-list,156598000,rev-edge-list,164159000,vertex-pull,79331000,vertex-push,42470800,vertex-push-warp,138984000
+ff 50,edge-list,29964700,rev-edge-list,31551400,vertex-pull,21892000,vertex-push,12294800,vertex-push-warp,33791000
+ff 30,edge-list,14913700,rev-edge-list,15640700,vertex-pull,11173700,vertex-push,7175020,vertex-push-warp,19955000
+ff 15,edge-list,5090950,rev-edge-list,5278470,vertex-pull,4649180,vertex-push,4918870,vertex-push-warp,8961570
+ff 05,edge-list,1572560,rev-edge-list,1620770,vertex-pull,3026640,vertex-push,4589520,vertex-push-warp,3155840
+re 50,edge-list,39797800,rev-edge-list,44430900,vertex-pull,44825600,vertex-push,21842800,vertex-push-warp,106372000
+re 30,edge-list,2203130,rev-edge-list,2360830,vertex-pull,3913560,vertex-push,1328550,vertex-push-warp,7419180
+re 15,edge-list,649716,rev-edge-list,676003,vertex-pull,1137350,vertex-push,499935,vertex-push-warp,2587130
+re 05,edge-list,234897,rev-edge-list,238456,vertex-pull,374734,vertex-push,219815,vertex-push-warp,899149
+rw 50,edge-list,49875400,rev-edge-list,52862600,vertex-pull,45253500,vertex-push,22360100,vertex-push-warp,104294000
+rw 30,edge-list,31344500,rev-edge-list,32315100,vertex-pull,32493000,vertex-push,16105300,vertex-push-warp,77473500
+rw 15,edge-list,1441090,rev-edge-list,1435700,vertex-pull,2023960,vertex-push,735644,vertex-push-warp,3879740
+rw 05,edge-list,1224770,rev-edge-list,1171880,vertex-pull,1537050,vertex-push,764318,vertex-push-warp,3120650
+,,,,,,,,,,
+digg-friends.edges,1,,2,,3,,4,,5,
+graph,edge-list,24650400,rev-edge-list,26773300,vertex-pull,35328000,vertex-push,16260700,vertex-push-warp,27998200
+ff 30,edge-list,4234050,rev-edge-list,4620870,vertex-pull,4076340,vertex-push,5743660,vertex-push-warp,5144370
+ff 15,edge-list,1499160,rev-edge-list,1569510,vertex-pull,1762940,vertex-push,3367520,vertex-push-warp,2505820
+ff 05,edge-list,586745,rev-edge-list,553445,vertex-pull,701660,vertex-push,3269750,vertex-push-warp,1359480
+re 50,edge-list,6879250,rev-edge-list,7532040,vertex-pull,8680960,vertex-push,5209470,vertex-push-warp,12750800
+re 30,edge-list,3235370,rev-edge-list,3543280,vertex-pull,5660950,vertex-push,2737100,vertex-push-warp,8150120
+re 15,edge-list,230216,rev-edge-list,248464,vertex-pull,1090720,vertex-push,166161,vertex-push-warp,715582
+re 05,edge-list,149890,rev-edge-list,171252,vertex-pull,435371,vertex-push,163541,vertex-push-warp,337655
+rw 50,edge-list,5024250,rev-edge-list,5455040,vertex-pull,20047800,vertex-push,4409330,vertex-push-warp,16929300
+rw 30,edge-list,2260750,rev-edge-list,2433810,vertex-pull,10030800,vertex-push,2551420,vertex-push-warp,10225500
+rw 15,edge-list,408120,rev-edge-list,419903,vertex-pull,4801530,vertex-push,391397,vertex-push-warp,1769080
+rw 05,edge-list,151051,rev-edge-list,178693,vertex-pull,902703,vertex-push,149287,vertex-push-warp,336380
+,,,,,,,,,,
+dolphins.edges,1,,2,,3,,4,,5,
+graph,edge-list,326945,rev-edge-list,385615,vertex-pull,371776,vertex-push,425057,vertex-push-warp,826193
+ff 50,edge-list,195499,rev-edge-list,233836,vertex-pull,205647,vertex-push,239992,vertex-push-warp,490499
+ff 30,edge-list,151478,rev-edge-list,175913,vertex-pull,145210,vertex-push,172195,vertex-push-warp,323987
+ff 15,edge-list,152261,rev-edge-list,170929,vertex-pull,143457,vertex-push,182973,vertex-push-warp,265694
+ff 05,edge-list,101497,rev-edge-list,113998,vertex-pull,99335,vertex-push,111718,vertex-push-warp,165954
+re 50,edge-list,147255,rev-edge-list,166213,vertex-pull,157948,vertex-push,158875,vertex-push-warp,328598
+re 30,edge-list,151422,rev-edge-list,166398,vertex-pull,153647,vertex-push,152169,vertex-push-warp,284619
+re 15,edge-list,102864,rev-edge-list,118970,vertex-pull,102376,vertex-push,102529,vertex-push-warp,171640
+re 05,edge-list,103495,rev-edge-list,119943,vertex-pull,103349,vertex-push,102832,vertex-push-warp,152869
+rw 50,edge-list,330288,rev-edge-list,391475,vertex-pull,356142,vertex-push,366235,vertex-push-warp,778883
+rw 30,edge-list,382791,rev-edge-list,427127,vertex-pull,387453,vertex-push,406446,vertex-push-warp,747867
+rw 15,edge-list,105578,rev-edge-list,122257,vertex-pull,109763,vertex-push,107738,vertex-push-warp,168496
+rw 05,edge-list,102113,rev-edge-list,117952,vertex-pull,104628,vertex-push,106083,vertex-push-warp,153472
+,,,,,,,,,,
+douban.edges,1,,2,,3,,4,,5,
+graph,edge-list,5323430,rev-edge-list,5625920,vertex-pull,4560940,vertex-push,3477920,vertex-push-warp,9879140
+ff 50,edge-list,2135700,rev-edge-list,2240460,vertex-pull,1539950,vertex-push,1974490,vertex-push-warp,3709950
+ff 30,edge-list,1314550,rev-edge-list,1362630,vertex-pull,1116790,vertex-push,1726580,vertex-push-warp,2602930
+ff 15,edge-list,736008,rev-edge-list,764322,vertex-pull,769509,vertex-push,1470700,vertex-push-warp,1473980
+ff 05,edge-list,214733,rev-edge-list,235175,vertex-pull,390828,vertex-push,856228,vertex-push-warp,764380
+re 50,edge-list,3827580,rev-edge-list,4204690,vertex-pull,3296300,vertex-push,1915250,vertex-push-warp,7338470
+re 30,edge-list,2591740,rev-edge-list,2801280,vertex-pull,2626400,vertex-push,1623000,vertex-push-warp,6002750
+re 15,edge-list,517543,rev-edge-list,524070,vertex-pull,610530,vertex-push,323141,vertex-push-warp,1141970
+re 05,edge-list,100267,rev-edge-list,108570,vertex-pull,112359,vertex-push,105677,vertex-push-warp,227288
+rw 50,edge-list,3367560,rev-edge-list,3540270,vertex-pull,2723900,vertex-push,1857840,vertex-push-warp,6404310
+rw 30,edge-list,2459440,rev-edge-list,2575820,vertex-pull,2252660,vertex-push,1456580,vertex-push-warp,5093050
+rw 15,edge-list,2091390,rev-edge-list,2031400,vertex-pull,1814720,vertex-push,1286540,vertex-push-warp,3931330
+rw 05,edge-list,2254920,rev-edge-list,2207550,vertex-pull,2704260,vertex-push,2484940,vertex-push-warp,5053930
+,,,,,,,,,,
+ego-gplus.edges,1,,2,,3,,4,,5,
+graph,edge-list,725964,rev-edge-list,680540,vertex-pull,683163,vertex-push,13381600,vertex-push-warp,2011420
+ff 50,edge-list,432807,rev-edge-list,406405,vertex-pull,411611,vertex-push,9679190,vertex-push-warp,1333050
+ff 30,edge-list,333414,rev-edge-list,303796,vertex-pull,313025,vertex-push,7253860,vertex-push-warp,1017830
+ff 15,edge-list,211339,rev-edge-list,196797,vertex-pull,198522,vertex-push,3549350,vertex-push-warp,628464
+ff 05,edge-list,222929,rev-edge-list,202439,vertex-pull,189116,vertex-push,1653720,vertex-push-warp,559816
+re 50,edge-list,379980,rev-edge-list,362203,vertex-pull,385244,vertex-push,4455450,vertex-push-warp,1013270
+re 30,edge-list,162592,rev-edge-list,154084,vertex-pull,174107,vertex-push,346780,vertex-push-warp,365519
+re 15,edge-list,274217,rev-edge-list,242999,vertex-pull,249517,vertex-push,396829,vertex-push-warp,581325
+re 05,edge-list,106789,rev-edge-list,111699,vertex-pull,106150,vertex-push,119801,vertex-push-warp,230787
+rw 50,edge-list,226823,rev-edge-list,202954,vertex-pull,249840,vertex-push,999589,vertex-push-warp,531117
+rw 30,edge-list,378276,rev-edge-list,351461,vertex-pull,372880,vertex-push,1361670,vertex-push-warp,949635
+rw 15,edge-list,406450,rev-edge-list,388882,vertex-pull,405401,vertex-push,785708,vertex-push-warp,973549
+rw 05,edge-list,112787,rev-edge-list,100354,vertex-pull,105256,vertex-push,119520,vertex-push-warp,232319
+,,,,,,,,,,
+ego-twitter.edges,1,,2,,3,,4,,5,
+graph,edge-list,581873,rev-edge-list,559828,vertex-pull,748076,vertex-push,1121590,vertex-push-warp,1496180
+ff 50,edge-list,357917,rev-edge-list,343611,vertex-pull,443213,vertex-push,827546,vertex-push-warp,884096
+ff 30,edge-list,426172,rev-edge-list,398923,vertex-pull,465817,vertex-push,958565,vertex-push-warp,1000760
+ff 15,edge-list,402394,rev-edge-list,384248,vertex-pull,460931,vertex-push,1098110,vertex-push-warp,1005030
+ff 05,edge-list,578425,rev-edge-list,542675,vertex-pull,555651,vertex-push,1399990,vertex-push-warp,1397910
+re 50,edge-list,204478,rev-edge-list,204928,vertex-pull,247924,vertex-push,297301,vertex-push-warp,491567
+re 30,edge-list,174470,rev-edge-list,155362,vertex-pull,187624,vertex-push,177615,vertex-push-warp,336182
+re 15,edge-list,158404,rev-edge-list,146970,vertex-pull,162915,vertex-push,163149,vertex-push-warp,318402
+re 05,edge-list,104270,rev-edge-list,105127,vertex-pull,103829,vertex-push,100183,vertex-push-warp,225934
+rw 50,edge-list,472310,rev-edge-list,396944,vertex-pull,532486,vertex-push,668495,vertex-push-warp,986120
+rw 30,edge-list,301765,rev-edge-list,301828,vertex-pull,352004,vertex-push,384637,vertex-push-warp,681538
+rw 15,edge-list,262405,rev-edge-list,241192,vertex-pull,264588,vertex-push,276035,vertex-push-warp,537775
+rw 05,edge-list,109686,rev-edge-list,101883,vertex-pull,124299,vertex-push,99472,vertex-push-warp,223122
+,,,,,,,,,,
+elec.edges,1,,2,,3,,4,,5,
+graph,edge-list,915074,rev-edge-list,962290,vertex-pull,1277040,vertex-push,3566430,vertex-push-warp,998414
+ff 50,edge-list,561224,rev-edge-list,560167,vertex-pull,754997,vertex-push,2622160,vertex-push-warp,914499
+ff 30,edge-list,300397,rev-edge-list,280046,vertex-pull,461719,vertex-push,1949560,vertex-push-warp,756082
+ff 15,edge-list,208664,rev-edge-list,201873,vertex-pull,232597,vertex-push,799251,vertex-push-warp,553951
+ff 05,edge-list,198958,rev-edge-list,201761,vertex-pull,204284,vertex-push,492680,vertex-push-warp,521521
+re 50,edge-list,622657,rev-edge-list,551482,vertex-pull,768193,vertex-push,1120060,vertex-push-warp,1242010
+re 30,edge-list,111903,rev-edge-list,105351,vertex-pull,134930,vertex-push,102295,vertex-push-warp,224957
+re 15,edge-list,117376,rev-edge-list,101870,vertex-pull,112026,vertex-push,106437,vertex-push-warp,226807
+re 05,edge-list,119544,rev-edge-list,106063,vertex-pull,103940,vertex-push,99665,vertex-push-warp,223029
+rw 50,edge-list,1100950,rev-edge-list,1022500,vertex-pull,1440340,vertex-push,1233580,vertex-push-warp,2259830
+rw 30,edge-list,1099080,rev-edge-list,963073,vertex-pull,1186580,vertex-push,1074040,vertex-push-warp,2193510
+rw 15,edge-list,225357,rev-edge-list,199305,vertex-pull,226590,vertex-push,198137,vertex-push-warp,433782
+rw 05,edge-list,117000,rev-edge-list,101255,vertex-pull,107949,vertex-push,102059,vertex-push-warp,223207
+,,,,,,,,,,
+enron.edges,1,,2,,3,,4,,5,
+graph,edge-list,6373820,rev-edge-list,6753870,vertex-pull,8211410,vertex-push,10406800,vertex-push-warp,10990400
+ff 50,edge-list,1927920,rev-edge-list,2074280,vertex-pull,1676760,vertex-push,7410250,vertex-push-warp,3625900
+ff 30,edge-list,1092960,rev-edge-list,1116820,vertex-pull,962084,vertex-push,4519280,vertex-push-warp,1739870
+ff 15,edge-list,556026,rev-edge-list,519766,vertex-pull,490078,vertex-push,5006640,vertex-push-warp,1201870
+ff 05,edge-list,321688,rev-edge-list,304270,vertex-pull,359777,vertex-push,2518090,vertex-push-warp,1036810
+re 50,edge-list,1726010,rev-edge-list,1839630,vertex-pull,2810010,vertex-push,4086800,vertex-push-warp,4073660
+re 30,edge-list,832108,rev-edge-list,881500,vertex-pull,1395100,vertex-push,1839560,vertex-push-warp,2071680
+re 15,edge-list,895839,rev-edge-list,917807,vertex-pull,1870480,vertex-push,1529820,vertex-push-warp,2000080
+re 05,edge-list,174934,rev-edge-list,167310,vertex-pull,189963,vertex-push,147197,vertex-push-warp,321626
+rw 50,edge-list,1571300,rev-edge-list,1668860,vertex-pull,4340310,vertex-push,4927900,vertex-push-warp,3744930
+rw 30,edge-list,863704,rev-edge-list,942563,vertex-pull,9642770,vertex-push,2443140,vertex-push-warp,2296930
+rw 15,edge-list,540264,rev-edge-list,559796,vertex-pull,2555900,vertex-push,1294940,vertex-push-warp,1362400
+rw 05,edge-list,875467,rev-edge-list,878965,vertex-pull,2833380,vertex-push,1172220,vertex-push-warp,2029480
+,,,,,,,,,,
+facebook-wosn-links.edges,1,,2,,3,,4,,5,
+graph,edge-list,19799800,rev-edge-list,21398000,vertex-pull,4826410,vertex-push,7457450,vertex-push-warp,6700590
+ff 50,edge-list,1960920,rev-edge-list,2075140,vertex-pull,2208640,vertex-push,4617330,vertex-push-warp,2338990
+ff 30,edge-list,878638,rev-edge-list,890169,vertex-pull,2018350,vertex-push,3474290,vertex-push-warp,1486510
+ff 05,edge-list,205498,rev-edge-list,223866,vertex-pull,828923,vertex-push,2369380,vertex-push-warp,726032
+re 50,edge-list,2814500,rev-edge-list,2948920,vertex-pull,2393130,vertex-push,1800440,vertex-push-warp,5644260
+re 30,edge-list,2357000,rev-edge-list,2543330,vertex-pull,1751790,vertex-push,1767390,vertex-push-warp,3725660
+re 15,edge-list,200078,rev-edge-list,204119,vertex-pull,238734,vertex-push,220018,vertex-push-warp,430620
+re 05,edge-list,98874,rev-edge-list,101960,vertex-pull,111107,vertex-push,105081,vertex-push-warp,230051
+rw 50,edge-list,2737570,rev-edge-list,2848910,vertex-pull,2485180,vertex-push,1720800,vertex-push-warp,5506020
+rw 30,edge-list,2115950,rev-edge-list,2085770,vertex-pull,1487730,vertex-push,1521250,vertex-push-warp,3095650
+rw 15,edge-list,2345390,rev-edge-list,2264490,vertex-pull,2342020,vertex-push,2358740,vertex-push-warp,4856640
+rw 05,edge-list,1371170,rev-edge-list,1283270,vertex-pull,1461490,vertex-push,1285230,vertex-push-warp,2747890
+,,,,,,,,,,
+flickrEdges.edges,1,,2,,3,,4,,5,
+graph,edge-list,35252400,rev-edge-list,37521700,vertex-pull,20622800,vertex-push,26064400,vertex-push-warp,9466960
+ff 50,edge-list,20918100,rev-edge-list,22285300,vertex-pull,11830400,vertex-push,19414100,vertex-push-warp,6437440
+ff 30,edge-list,10907400,rev-edge-list,11547400,vertex-pull,9105020,vertex-push,16148600,vertex-push-warp,4614620
+ff 15,edge-list,8766070,rev-edge-list,9384420,vertex-pull,7708650,vertex-push,14060000,vertex-push-warp,3754960
+ff 05,edge-list,2054550,rev-edge-list,2193550,vertex-pull,1686230,vertex-push,6062220,vertex-push-warp,2641810
+re 50,edge-list,12722000,rev-edge-list,13818200,vertex-pull,8043040,vertex-push,5227280,vertex-push-warp,12420300
+re 30,edge-list,2624320,rev-edge-list,2730020,vertex-pull,2728530,vertex-push,1486630,vertex-push-warp,4440330
+re 15,edge-list,2376920,rev-edge-list,2303820,vertex-pull,2321440,vertex-push,1654660,vertex-push-warp,3322270
+re 05,edge-list,165927,rev-edge-list,146285,vertex-pull,162458,vertex-push,153247,vertex-push-warp,321410
+rw 50,edge-list,4513820,rev-edge-list,4560350,vertex-pull,6014030,vertex-push,4443870,vertex-push-warp,8629430
+rw 30,edge-list,4485060,rev-edge-list,4293890,vertex-pull,9359180,vertex-push,4218930,vertex-push-warp,10675600
+rw 15,edge-list,6738930,rev-edge-list,6360460,vertex-pull,9761080,vertex-push,4958660,vertex-push-warp,9452730
+rw 05,edge-list,894893,rev-edge-list,881496,vertex-pull,1524650,vertex-push,769254,vertex-push-warp,1647690
+,,,,,,,,,,
+flickr-growth.edges,1,,2,,3,,4,,5,
+graph,edge-list,530749000,rev-edge-list,579045000,vertex-pull,237440000,vertex-push,184292000,vertex-push-warp,271147000
+ff 50,edge-list,128367000,rev-edge-list,139785000,vertex-pull,118261000,vertex-push,93412200,vertex-push-warp,70384300
+ff 30,edge-list,55621400,rev-edge-list,60687400,vertex-pull,40837100,vertex-push,71478900,vertex-push-warp,34304500
+ff 15,edge-list,16414600,rev-edge-list,17753000,vertex-pull,11006700,vertex-push,51715100,vertex-push-warp,16228100
+ff 05,edge-list,2744460,rev-edge-list,2845120,vertex-pull,2113650,vertex-push,27419000,vertex-push-warp,7139460
+re 50,edge-list,97636500,rev-edge-list,108669000,vertex-pull,68473700,vertex-push,46012600,vertex-push-warp,128319000
+re 30,edge-list,6949970,rev-edge-list,7681220,vertex-pull,13846100,vertex-push,2275420,vertex-push-warp,13223100
+re 15,edge-list,16397200,rev-edge-list,17906200,vertex-pull,21492800,vertex-push,11454600,vertex-push-warp,51293400
+re 05,edge-list,342981,rev-edge-list,359031,vertex-pull,758014,vertex-push,331684,vertex-push-warp,1578120
+rw 50,edge-list,61854600,rev-edge-list,66820700,vertex-pull,92592700,vertex-push,33815500,vertex-push-warp,174126000
+rw 30,edge-list,40738400,rev-edge-list,43557100,vertex-pull,72093200,vertex-push,25556300,vertex-push-warp,138450000
+rw 15,edge-list,16216400,rev-edge-list,17162100,vertex-pull,30053300,vertex-push,12237400,vertex-push-warp,64969400
+rw 05,edge-list,7193270,rev-edge-list,7334680,vertex-pull,13054900,vertex-push,6151500,vertex-push-warp,29269500
+,,,,,,,,,,
+flickr-links.edges,1,,2,,3,,4,,5,
+graph,edge-list,497531000,rev-edge-list,538602000,vertex-pull,191129000,vertex-push,144401000,vertex-push-warp,203242000
+ff 50,edge-list,165525000,rev-edge-list,181146000,vertex-pull,117840000,vertex-push,105585000,vertex-push-warp,60262600
+ff 30,edge-list,73259000,rev-edge-list,80043000,vertex-pull,52966200,vertex-push,83018200,vertex-push-warp,30139100
+ff 15,edge-list,22522200,rev-edge-list,24164500,vertex-pull,31047500,vertex-push,56348100,vertex-push-warp,14861600
+ff 05,edge-list,2494270,rev-edge-list,2604290,vertex-pull,11867400,vertex-push,24738800,vertex-push-warp,6353560
+re 50,edge-list,125615000,rev-edge-list,140726000,vertex-pull,53267500,vertex-push,38791900,vertex-push-warp,89540100
+re 30,edge-list,6858740,rev-edge-list,7700640,vertex-pull,9616590,vertex-push,1161670,vertex-push-warp,6635930
+re 15,edge-list,22469400,rev-edge-list,24674100,vertex-pull,16081000,vertex-push,10007300,vertex-push-warp,36962700
+re 05,edge-list,4360140,rev-edge-list,4603640,vertex-pull,5019930,vertex-push,3062740,vertex-push-warp,11845200
+rw 50,edge-list,84361600,rev-edge-list,92666100,vertex-pull,87313700,vertex-push,36024500,vertex-push-warp,127576000
+rw 30,edge-list,38545400,rev-edge-list,41345500,vertex-pull,38982100,vertex-push,17958100,vertex-push-warp,72958200
+rw 15,edge-list,17656600,rev-edge-list,18313100,vertex-pull,19566800,vertex-push,10013600,vertex-push-warp,41196300
+rw 05,edge-list,5916900,rev-edge-list,6042160,vertex-pull,7338820,vertex-push,4157980,vertex-push-warp,16534100
+,,,,,,,,,,
+flixster.edges,1,,2,,3,,4,,5,
+graph,edge-list,88217200,rev-edge-list,94117800,vertex-pull,74169800,vertex-push,37306700,vertex-push-warp,107002000
+ff 50,edge-list,39156500,rev-edge-list,41464300,vertex-pull,33205800,vertex-push,19922700,vertex-push-warp,56951100
+ff 30,edge-list,19291800,rev-edge-list,20226200,vertex-pull,15625300,vertex-push,9829370,vertex-push-warp,32644000
+ff 15,edge-list,7833430,rev-edge-list,8130670,vertex-pull,6415960,vertex-push,6413100,vertex-push-warp,15946700
+ff 05,edge-list,1723290,rev-edge-list,1763540,vertex-pull,2263570,vertex-push,3658020,vertex-push-warp,4703910
+re 50,edge-list,74890300,rev-edge-list,85986300,vertex-pull,57218800,vertex-push,30439100,vertex-push-warp,121072000
+re 30,edge-list,45789900,rev-edge-list,52248400,vertex-pull,42259000,vertex-push,20281700,vertex-push-warp,91459600
+re 15,edge-list,17713600,rev-edge-list,19735700,vertex-pull,20546100,vertex-push,10073800,vertex-push-warp,46322600
+re 05,edge-list,532822,rev-edge-list,564563,vertex-pull,848341,vertex-push,351763,vertex-push-warp,1747500
+rw 50,edge-list,70790700,rev-edge-list,78669900,vertex-pull,58242700,vertex-push,31363900,vertex-push-warp,113800000
+rw 30,edge-list,42204400,rev-edge-list,46009800,vertex-pull,38815800,vertex-push,19668800,vertex-push-warp,78292400
+rw 15,edge-list,25446000,rev-edge-list,27042100,vertex-pull,24819600,vertex-push,12154500,vertex-push-warp,54706600
+rw 05,edge-list,736353,rev-edge-list,741495,vertex-pull,1014340,vertex-push,355351,vertex-push-warp,1757920
+,,,,,,,,,,
+foldoc.edges,1,,2,,3,,4,,5,
+graph,edge-list,2116190,rev-edge-list,2156760,vertex-pull,1387880,vertex-push,1319740,vertex-push-warp,1796200
+ff 50,edge-list,353760,rev-edge-list,302785,vertex-pull,519278,vertex-push,606827,vertex-push-warp,919454
+ff 30,edge-list,289684,rev-edge-list,245198,vertex-pull,368895,vertex-push,569559,vertex-push-warp,738829
+ff 15,edge-list,262482,rev-edge-list,287810,vertex-pull,302608,vertex-push,512857,vertex-push-warp,753800
+ff 05,edge-list,227134,rev-edge-list,191948,vertex-pull,203333,vertex-push,357331,vertex-push-warp,579466
+re 50,edge-list,222246,rev-edge-list,195742,vertex-pull,348671,vertex-push,195222,vertex-push-warp,419359
+re 30,edge-list,115059,rev-edge-list,100652,vertex-pull,131640,vertex-push,102333,vertex-push-warp,215545
+re 15,edge-list,167724,rev-edge-list,141694,vertex-pull,164523,vertex-push,147895,vertex-push-warp,330449
+re 05,edge-list,117988,rev-edge-list,99361,vertex-pull,107099,vertex-push,98406,vertex-push-warp,221729
+rw 50,edge-list,1305980,rev-edge-list,1222810,vertex-pull,1486820,vertex-push,1468520,vertex-push-warp,3049560
+rw 30,edge-list,1344410,rev-edge-list,1249430,vertex-pull,1447790,vertex-push,1419180,vertex-push-warp,2995860
+rw 15,edge-list,111435,rev-edge-list,97128,vertex-pull,127459,vertex-push,102473,vertex-push-warp,224460
+rw 05,edge-list,112116,rev-edge-list,98402,vertex-pull,108583,vertex-push,99410,vertex-push-warp,226173
+,,,,,,,,,,
+hyves.edges,1,,2,,3,,4,,5,
+graph,edge-list,48675800,rev-edge-list,51016400,vertex-pull,97680500,vertex-push,129403000,vertex-push-warp,87406500
+ff 50,edge-list,16816100,rev-edge-list,17438800,vertex-pull,53184800,vertex-push,72752100,vertex-push-warp,35444600
+ff 30,edge-list,9851860,rev-edge-list,10178300,vertex-pull,46052700,vertex-push,78803900,vertex-push-warp,21170400
+ff 15,edge-list,4048030,rev-edge-list,4157000,vertex-pull,43000900,vertex-push,76704000,vertex-push-warp,9193800
+ff 05,edge-list,1487520,rev-edge-list,1512350,vertex-pull,14108100,vertex-push,25915700,vertex-push-warp,3484650
+re 50,edge-list,38768700,rev-edge-list,44280100,vertex-pull,77860700,vertex-push,54686000,vertex-push-warp,94677400
+re 30,edge-list,28391300,rev-edge-list,31528300,vertex-pull,53042200,vertex-push,29552600,vertex-push-warp,83823500
+re 15,edge-list,819505,rev-edge-list,857606,vertex-pull,3897800,vertex-push,519778,vertex-push-warp,2761560
+re 05,edge-list,430209,rev-edge-list,421143,vertex-pull,1598220,vertex-push,336268,vertex-push-warp,1584910
+rw 50,edge-list,31692900,rev-edge-list,34122800,vertex-pull,71277300,vertex-push,65567800,vertex-push-warp,73286500
+rw 30,edge-list,21543300,rev-edge-list,22564000,vertex-pull,36769800,vertex-push,29523800,vertex-push-warp,55770800
+rw 15,edge-list,15835400,rev-edge-list,16004300,vertex-pull,25643700,vertex-push,16823900,vertex-push-warp,43627800
+rw 05,edge-list,8988150,rev-edge-list,8879180,vertex-pull,14842400,vertex-push,8280260,vertex-push-warp,25096900
+,,,,,,,,,,
+libimseti.edges,1,,2,,3,,4,,5,
+graph,edge-list,149068000,rev-edge-list,167721000,vertex-pull,57758700,vertex-push,183563000,vertex-push-warp,22231600
+ff 50,edge-list,6683750,rev-edge-list,7274770,vertex-pull,3937300,vertex-push,53469600,vertex-push-warp,5080500
+ff 30,edge-list,1345640,rev-edge-list,1402040,vertex-pull,1133280,vertex-push,40936100,vertex-push-warp,3210280
+ff 15,edge-list,475515,rev-edge-list,454807,vertex-pull,486643,vertex-push,32202200,vertex-push-warp,2474890
+ff 05,edge-list,241608,rev-edge-list,210296,vertex-pull,284697,vertex-push,4356250,vertex-push-warp,1138160
+re 50,edge-list,811696,rev-edge-list,864884,vertex-pull,1842460,vertex-push,494893,vertex-push-warp,2359840
+re 30,edge-list,354523,rev-edge-list,374394,vertex-pull,819823,vertex-push,331291,vertex-push-warp,1354760
+re 15,edge-list,128690,rev-edge-list,124440,vertex-pull,317142,vertex-push,164698,vertex-push-warp,551032
+re 05,edge-list,107932,rev-edge-list,114341,vertex-pull,126464,vertex-push,100779,vertex-push-warp,216809
+rw 50,edge-list,4022750,rev-edge-list,4463810,vertex-pull,6564690,vertex-push,3127090,vertex-push-warp,10143200
+rw 30,edge-list,2439310,rev-edge-list,2607730,vertex-pull,3392440,vertex-push,2423910,vertex-push-warp,6797370
+rw 15,edge-list,1491340,rev-edge-list,1682870,vertex-pull,2689890,vertex-push,1763140,vertex-push-warp,5270990
+rw 05,edge-list,1630950,rev-edge-list,1583860,vertex-pull,2055600,vertex-push,1844830,vertex-push-warp,3625120
+,,,,,,,,,,
+linux.edges,1,,2,,3,,4,,5,
+graph,edge-list,2452070,rev-edge-list,2587560,vertex-pull,18526000,vertex-push,1042880,vertex-push-warp,2774700
+ff 50,edge-list,1232450,rev-edge-list,1269040,vertex-pull,7692510,vertex-push,1002200,vertex-push-warp,1465220
+ff 30,edge-list,714045,rev-edge-list,766417,vertex-pull,2863970,vertex-push,833105,vertex-push-warp,1184060
+ff 15,edge-list,551528,rev-edge-list,621282,vertex-pull,1944420,vertex-push,989504,vertex-push-warp,1390090
+ff 05,edge-list,514855,rev-edge-list,561202,vertex-pull,959116,vertex-push,868444,vertex-push-warp,1295940
+re 50,edge-list,743417,rev-edge-list,760823,vertex-pull,12531200,vertex-push,669306,vertex-push-warp,1480120
+re 30,edge-list,145796,rev-edge-list,175954,vertex-pull,1258070,vertex-push,154076,vertex-push-warp,321418
+re 15,edge-list,98427,rev-edge-list,117384,vertex-pull,429244,vertex-push,100217,vertex-push-warp,212095
+re 05,edge-list,102921,rev-edge-list,113079,vertex-pull,184768,vertex-push,98004,vertex-push-warp,225193
+rw 50,edge-list,505727,rev-edge-list,554747,vertex-pull,2676970,vertex-push,913025,vertex-push-warp,1270780
+rw 30,edge-list,436127,rev-edge-list,487386,vertex-pull,1762220,vertex-push,858484,vertex-push-warp,1188530
+rw 15,edge-list,558411,rev-edge-list,640397,vertex-pull,1679370,vertex-push,969338,vertex-push-warp,1454980
+rw 05,edge-list,560858,rev-edge-list,643575,vertex-pull,1042550,vertex-push,716247,vertex-push-warp,1413180
+,,,,,,,,,,
+livemocha.edges,1,,2,,3,,4,,5,
+graph,edge-list,24713300,rev-edge-list,26969300,vertex-pull,12718600,vertex-push,17265700,vertex-push-warp,7604840
+ff 50,edge-list,1575300,rev-edge-list,1648900,vertex-pull,2916780,vertex-push,8222590,vertex-push-warp,3147910
+ff 30,edge-list,607936,rev-edge-list,638232,vertex-pull,1979710,vertex-push,6670720,vertex-push-warp,2020430
+ff 15,edge-list,340097,rev-edge-list,352027,vertex-pull,2073540,vertex-push,6037820,vertex-push-warp,1477650
+ff 05,edge-list,158994,rev-edge-list,176603,vertex-pull,152944,vertex-push,2640580,vertex-push-warp,722360
+re 50,edge-list,2981280,rev-edge-list,3276660,vertex-pull,1996370,vertex-push,1748360,vertex-push-warp,4664460
+re 30,edge-list,1903280,rev-edge-list,1998980,vertex-pull,2080960,vertex-push,1562860,vertex-push-warp,4781010
+re 15,edge-list,354586,rev-edge-list,342977,vertex-pull,429272,vertex-push,300925,vertex-push-warp,671503
+re 05,edge-list,115591,rev-edge-list,107610,vertex-pull,114959,vertex-push,105168,vertex-push-warp,218039
+rw 50,edge-list,3446120,rev-edge-list,3768300,vertex-pull,2449360,vertex-push,2263240,vertex-push-warp,4702170
+rw 30,edge-list,2224670,rev-edge-list,2397950,vertex-pull,2035060,vertex-push,1984760,vertex-push-warp,4607070
+rw 15,edge-list,2007680,rev-edge-list,2099460,vertex-pull,1687960,vertex-push,1609190,vertex-push-warp,2910820
+rw 05,edge-list,1706910,rev-edge-list,1706580,vertex-pull,1933670,vertex-push,1932910,vertex-push-warp,3826070
+,,,,,,,,,,
+loc-brightkite_edges.edges,1,,2,,3,,4,,5,
+graph,edge-list,5533580,rev-edge-list,5892530,vertex-pull,3352750,vertex-push,6149960,vertex-push-warp,5861920
+ff 50,edge-list,1342470,rev-edge-list,1436480,vertex-pull,1443440,vertex-push,4292670,vertex-push-warp,1773810
+ff 30,edge-list,585570,rev-edge-list,622756,vertex-pull,1032460,vertex-push,3435660,vertex-push-warp,1039350
+ff 15,edge-list,338627,rev-edge-list,347712,vertex-pull,931664,vertex-push,3261740,vertex-push-warp,1011660
+ff 05,edge-list,150203,rev-edge-list,160611,vertex-pull,178041,vertex-push,1902980,vertex-push-warp,585116
+re 50,edge-list,2076720,rev-edge-list,2309200,vertex-pull,1871440,vertex-push,2144890,vertex-push-warp,3313810
+re 30,edge-list,1539990,rev-edge-list,1689420,vertex-pull,1472060,vertex-push,1545670,vertex-push-warp,2366660
+re 15,edge-list,889450,rev-edge-list,953667,vertex-pull,1267320,vertex-push,1300320,vertex-push-warp,2078600
+re 05,edge-list,148691,rev-edge-list,154008,vertex-pull,176182,vertex-push,146627,vertex-push-warp,311871
+rw 50,edge-list,2068480,rev-edge-list,2218740,vertex-pull,1651620,vertex-push,2327960,vertex-push-warp,3184220
+rw 30,edge-list,1328460,rev-edge-list,1413740,vertex-pull,1433700,vertex-push,1668240,vertex-push-warp,2083600
+rw 15,edge-list,1081640,rev-edge-list,1149380,vertex-pull,1643360,vertex-push,1553550,vertex-push-warp,2506900
+rw 05,edge-list,1282690,rev-edge-list,1359150,vertex-pull,1578380,vertex-push,1570630,vertex-push-warp,3099080
+,,,,,,,,,,
+loc-gowalla_edges.edges,1,,2,,3,,4,,5,
+graph,edge-list,20931100,rev-edge-list,22345800,vertex-pull,8943770,vertex-push,37611100,vertex-push-warp,15592600
+ff 50,edge-list,3848890,rev-edge-list,4072450,vertex-pull,4028070,vertex-push,26711500,vertex-push-warp,4447160
+ff 30,edge-list,1795860,rev-edge-list,1860870,vertex-pull,3464000,vertex-push,25134500,vertex-push-warp,3090280
+ff 15,edge-list,446581,rev-edge-list,464899,vertex-pull,271391,vertex-push,19361600,vertex-push-warp,1544180
+ff 05,edge-list,246123,rev-edge-list,253539,vertex-pull,174958,vertex-push,3500750,vertex-push-warp,745775
+re 50,edge-list,8155420,rev-edge-list,8783920,vertex-pull,11453200,vertex-push,9835520,vertex-push-warp,16649000
+re 30,edge-list,3902690,rev-edge-list,4063500,vertex-pull,7131350,vertex-push,5716290,vertex-push-warp,10448900
+re 15,edge-list,2126690,rev-edge-list,2021330,vertex-pull,3864010,vertex-push,3094220,vertex-push-warp,4975720
+re 05,edge-list,102013,rev-edge-list,106693,vertex-pull,299022,vertex-push,106295,vertex-push-warp,216523
+rw 50,edge-list,6446170,rev-edge-list,6713220,vertex-pull,8529980,vertex-push,9304700,vertex-push-warp,12039500
+rw 30,edge-list,4993550,rev-edge-list,5231000,vertex-pull,6313900,vertex-push,7014620,vertex-push-warp,10835500
+rw 15,edge-list,3363130,rev-edge-list,3235970,vertex-pull,3612550,vertex-push,4613780,vertex-push-warp,6281040
+rw 05,edge-list,1675480,rev-edge-list,1681790,vertex-pull,2413250,vertex-push,2862380,vertex-push-warp,3802480
+,,,,,,,,,,
+moreno_bison.edges,1,,2,,3,,4,,5,
+graph,edge-list,168055,rev-edge-list,147260,vertex-pull,153621,vertex-push,232502,vertex-push-warp,360690
+ff 50,edge-list,112953,rev-edge-list,98853,vertex-pull,103752,vertex-push,124657,vertex-push-warp,186373
+ff 30,edge-list,109297,rev-edge-list,98760,vertex-pull,102829,vertex-push,117825,vertex-push-warp,173841
+ff 15,edge-list,114890,rev-edge-list,102523,vertex-pull,118926,vertex-push,110879,vertex-push-warp,156097
+ff 05,edge-list,114780,rev-edge-list,103275,vertex-pull,101357,vertex-push,105294,vertex-push-warp,149431
+re 50,edge-list,220178,rev-edge-list,189361,vertex-pull,202859,vertex-push,200367,vertex-push-warp,339493
+re 30,edge-list,107535,rev-edge-list,102227,vertex-pull,107608,vertex-push,106284,vertex-push-warp,165358
+re 15,edge-list,106811,rev-edge-list,102932,vertex-pull,105401,vertex-push,103255,vertex-push-warp,151647
+re 05,edge-list,113664,rev-edge-list,102316,vertex-pull,98615,vertex-push,100741,vertex-push-warp,146640
+rw 50,edge-list,436379,rev-edge-list,376055,vertex-pull,390681,vertex-push,392383,vertex-push-warp,675338
+rw 30,edge-list,158145,rev-edge-list,148860,vertex-pull,147373,vertex-push,147733,vertex-push-warp,236867
+rw 15,edge-list,219496,rev-edge-list,195181,vertex-pull,189534,vertex-push,195156,vertex-push-warp,293185
+rw 05,edge-list,113150,rev-edge-list,98281,vertex-pull,102493,vertex-push,104418,vertex-push-warp,150457
+,,,,,,,,,,
+munmun_twitterex_ut.edges,1,,2,,3,,4,,5,
+graph,edge-list,45645900,rev-edge-list,48688400,vertex-pull,59264500,vertex-push,77153600,vertex-push-warp,63484600
+ff 50,edge-list,9817660,rev-edge-list,10394200,vertex-pull,24710100,vertex-push,50283400,vertex-push-warp,18631800
+ff 30,edge-list,6553090,rev-edge-list,6971340,vertex-pull,6537270,vertex-push,46375200,vertex-push-warp,11582000
+ff 15,edge-list,1396970,rev-edge-list,1405280,vertex-pull,3526200,vertex-push,33868400,vertex-push-warp,4742760
+ff 05,edge-list,467723,rev-edge-list,479735,vertex-pull,888480,vertex-push,21129300,vertex-push-warp,1999940
+re 50,edge-list,11240700,rev-edge-list,12193900,vertex-pull,23603800,vertex-push,17887800,vertex-push-warp,37697800
+re 30,edge-list,5546510,rev-edge-list,5898940,vertex-pull,11847800,vertex-push,7751690,vertex-push-warp,23663200
+re 15,edge-list,3751910,rev-edge-list,3933740,vertex-pull,9422770,vertex-push,5287890,vertex-push-warp,18865800
+re 05,edge-list,190831,rev-edge-list,192180,vertex-pull,477598,vertex-push,245459,vertex-push-warp,826993
+rw 50,edge-list,14041200,rev-edge-list,15017600,vertex-pull,24691200,vertex-push,14746000,vertex-push-warp,39432100
+rw 30,edge-list,8193810,rev-edge-list,8656280,vertex-pull,15089300,vertex-push,9117560,vertex-push-warp,26486000
+rw 15,edge-list,5069010,rev-edge-list,5366640,vertex-pull,10229600,vertex-push,5817540,vertex-push-warp,18510000
+rw 05,edge-list,3046560,rev-edge-list,3174360,vertex-pull,5590680,vertex-push,3589480,vertex-push-warp,10176900
+,,,,,,,,,,
+orkut-links.edges,1,,2,,3,,4,,5,
+graph,edge-list,59844,rev-edge-list,62691,vertex-pull,55246,vertex-push,59182,vertex-push-warp,79637
+ff 50,edge-list,55901,rev-edge-list,61840,vertex-pull,52814,vertex-push,59359,vertex-push-warp,77799
+ff 30,edge-list,55447,rev-edge-list,61344,vertex-pull,52186,vertex-push,57384,vertex-push-warp,77604
+ff 15,edge-list,56713,rev-edge-list,59550,vertex-pull,52727,vertex-push,56258,vertex-push-warp,78592
+ff 05,edge-list,59288,rev-edge-list,60145,vertex-pull,52967,vertex-push,55944,vertex-push-warp,81370
+re 50,edge-list,60078,rev-edge-list,62276,vertex-pull,55965,vertex-push,55787,vertex-push-warp,81177
+re 30,edge-list,59919,rev-edge-list,58959,vertex-pull,55932,vertex-push,55933,vertex-push-warp,81523
+re 15,edge-list,59488,rev-edge-list,59034,vertex-pull,55336,vertex-push,59741,vertex-push-warp,81372
+re 05,edge-list,59854,rev-edge-list,61891,vertex-pull,56014,vertex-push,59865,vertex-push-warp,81392
+,,,,,,,,,,
+p2p-Gnutella31.edges,1,,2,,3,,4,,5,
+graph,edge-list,5255570,rev-edge-list,5729710,vertex-pull,4832200,vertex-push,3864250,vertex-push-warp,12735900
+ff 50,edge-list,1167120,rev-edge-list,1270320,vertex-pull,1546220,vertex-push,1367850,vertex-push-warp,4071360
+ff 30,edge-list,607844,rev-edge-list,664001,vertex-pull,618669,vertex-push,832027,vertex-push-warp,1646260
+ff 15,edge-list,451805,rev-edge-list,483376,vertex-pull,467129,vertex-push,643709,vertex-push-warp,1239990
+ff 05,edge-list,385040,rev-edge-list,438718,vertex-pull,385551,vertex-push,526460,vertex-push-warp,1042840
+re 50,edge-list,243230,rev-edge-list,253496,vertex-pull,368028,vertex-push,237377,vertex-push-warp,815382
+re 30,edge-list,118321,rev-edge-list,119140,vertex-pull,117912,vertex-push,107554,vertex-push-warp,252254
+re 15,edge-list,169539,rev-edge-list,171178,vertex-pull,159662,vertex-push,146092,vertex-push-warp,321493
+re 05,edge-list,117189,rev-edge-list,110500,vertex-pull,105757,vertex-push,102251,vertex-push-warp,206810
+rw 50,edge-list,3132020,rev-edge-list,3354600,vertex-pull,4504820,vertex-push,2922490,vertex-push-warp,10484200
+rw 30,edge-list,866271,rev-edge-list,892312,vertex-pull,872311,vertex-push,815273,vertex-push-warp,1939390
+rw 15,edge-list,171647,rev-edge-list,161096,vertex-pull,162797,vertex-push,146653,vertex-push-warp,317199
+rw 05,edge-list,169664,rev-edge-list,168040,vertex-pull,155224,vertex-push,146143,vertex-push-warp,311071
+,,,,,,,,,,
+petster-carnivore.edges,1,,2,,3,,4,,5,
+graph,edge-list,335686000,rev-edge-list,353579000,vertex-pull,180514000,vertex-push,376968000,vertex-push-warp,122965000
+ff 50,edge-list,62513200,rev-edge-list,66487600,vertex-pull,101121000,vertex-push,297059000,vertex-push-warp,61889400
+ff 30,edge-list,58052600,rev-edge-list,61937000,vertex-pull,103218000,vertex-push,334572000,vertex-push-warp,45893800
+ff 15,edge-list,8215880,rev-edge-list,8705270,vertex-pull,56149100,vertex-push,229142000,vertex-push-warp,34171200
+ff 05,edge-list,386154,rev-edge-list,391777,vertex-pull,320180,vertex-push,55479600,vertex-push-warp,2620450
+re 50,edge-list,27935100,rev-edge-list,31061000,vertex-pull,27002900,vertex-push,36983700,vertex-push-warp,41294500
+re 30,edge-list,10336700,rev-edge-list,11360400,vertex-pull,15504400,vertex-push,15345300,vertex-push-warp,23417700
+re 15,edge-list,3137080,rev-edge-list,3342990,vertex-pull,5881330,vertex-push,4330000,vertex-push-warp,8827890
+re 05,edge-list,2946300,rev-edge-list,2941880,vertex-pull,6120050,vertex-push,3185540,vertex-push-warp,9648120
+rw 50,edge-list,30079000,rev-edge-list,32704900,vertex-pull,32216000,vertex-push,32290400,vertex-push-warp,44134800
+rw 30,edge-list,15812200,rev-edge-list,16820900,vertex-pull,18323400,vertex-push,18138700,vertex-push-warp,30765100
+rw 15,edge-list,4987340,rev-edge-list,5088980,vertex-pull,10551900,vertex-push,4385370,vertex-push-warp,11095700
+rw 05,edge-list,242542,rev-edge-list,236584,vertex-pull,485550,vertex-push,157364,vertex-push-warp,550524
+,,,,,,,,,,
+petster-friendships-cat.edges,1,,2,,3,,4,,5,
+graph,edge-list,81654400,rev-edge-list,85972300,vertex-pull,62032000,vertex-push,294933000,vertex-push-warp,69676100
+ff 50,edge-list,1030940,rev-edge-list,1057380,vertex-pull,568162,vertex-push,101385000,vertex-push-warp,9020060
+ff 30,edge-list,539920,rev-edge-list,549008,vertex-pull,400892,vertex-push,57528200,vertex-push-warp,4213730
+ff 15,edge-list,298491,rev-edge-list,284609,vertex-pull,236226,vertex-push,37973200,vertex-push-warp,1977040
+ff 05,edge-list,163193,rev-edge-list,159971,vertex-pull,148078,vertex-push,12461100,vertex-push-warp,883652
+re 50,edge-list,4979850,rev-edge-list,5362540,vertex-pull,8352340,vertex-push,12807000,vertex-push-warp,8001270
+re 30,edge-list,2225320,rev-edge-list,2348320,vertex-pull,4091980,vertex-push,5287500,vertex-push-warp,4866000
+re 15,edge-list,1407050,rev-edge-list,1375860,vertex-pull,3177130,vertex-push,3356260,vertex-push-warp,3274140
+re 05,edge-list,1591910,rev-edge-list,1628120,vertex-pull,3940360,vertex-push,3213490,vertex-push-warp,3657130
+rw 50,edge-list,4714970,rev-edge-list,5013100,vertex-pull,9598930,vertex-push,19962900,vertex-push-warp,6641940
+rw 30,edge-list,2920090,rev-edge-list,3010150,vertex-pull,6107170,vertex-push,8177720,vertex-push-warp,5146020
+rw 15,edge-list,1478150,rev-edge-list,1520440,vertex-pull,3247100,vertex-push,3942310,vertex-push-warp,3030620
+rw 05,edge-list,158423,rev-edge-list,158313,vertex-pull,753400,vertex-push,153308,vertex-push-warp,317252
+,,,,,,,,,,
+petster-friendships-dog.edges,1,,2,,3,,4,,5,
+graph,edge-list,147482000,rev-edge-list,156639000,vertex-pull,73116300,vertex-push,178264000,vertex-push-warp,45693000
+ff 50,edge-list,9774020,rev-edge-list,10282400,vertex-pull,39758500,vertex-push,112467000,vertex-push-warp,16856000
+ff 30,edge-list,4202230,rev-edge-list,4413060,vertex-pull,41848000,vertex-push,118510000,vertex-push-warp,21088500
+ff 15,edge-list,1284740,rev-edge-list,1318330,vertex-pull,7030360,vertex-push,58458400,vertex-push-warp,7165420
+ff 05,edge-list,308903,rev-edge-list,284576,vertex-pull,240154,vertex-push,33791100,vertex-push-warp,2019370
+re 50,edge-list,1931130,rev-edge-list,2128920,vertex-pull,5303790,vertex-push,539367,vertex-push-warp,2928680
+re 30,edge-list,6112050,rev-edge-list,6549010,vertex-pull,6716620,vertex-push,8477460,vertex-push-warp,13924100
+re 15,edge-list,3101820,rev-edge-list,3272890,vertex-pull,4240680,vertex-push,3122660,vertex-push-warp,8311200
+re 05,edge-list,571069,rev-edge-list,556191,vertex-pull,1006700,vertex-push,371722,vertex-push-warp,1322060
+rw 50,edge-list,16248800,rev-edge-list,17598400,vertex-pull,22761600,vertex-push,19618100,vertex-push-warp,23402300
+rw 30,edge-list,8899790,rev-edge-list,9379420,vertex-pull,8537730,vertex-push,8474290,vertex-push-warp,15856800
+rw 15,edge-list,4182410,rev-edge-list,4270080,vertex-pull,4774010,vertex-push,4631100,vertex-push-warp,8634210
+rw 05,edge-list,2330740,rev-edge-list,2264900,vertex-pull,2930860,vertex-push,2412140,vertex-push-warp,5311050
+,,,,,,,,,,
+prosper-loans.edges,1,,2,,3,,4,,5,
+graph,edge-list,10585500,rev-edge-list,11790900,vertex-pull,8852450,vertex-push,407505,vertex-push-warp,1849820
+ff 50,edge-list,1345520,rev-edge-list,1482420,vertex-pull,1195890,vertex-push,170788,vertex-push-warp,721933
+ff 30,edge-list,278287,rev-edge-list,282648,vertex-pull,237910,vertex-push,159098,vertex-push-warp,419788
+ff 15,edge-list,169220,rev-edge-list,161846,vertex-pull,199338,vertex-push,153605,vertex-push-warp,335291
+ff 05,edge-list,118094,rev-edge-list,102682,vertex-pull,121526,vertex-push,103205,vertex-push-warp,216768
+re 50,edge-list,349862,rev-edge-list,376899,vertex-pull,555999,vertex-push,259550,vertex-push-warp,1076340
+re 30,edge-list,123524,rev-edge-list,120141,vertex-pull,189387,vertex-push,153785,vertex-push-warp,415509
+re 15,edge-list,110185,rev-edge-list,114033,vertex-pull,115662,vertex-push,104369,vertex-push-warp,226489
+re 05,edge-list,115303,rev-edge-list,111888,vertex-pull,103695,vertex-push,104186,vertex-push-warp,228151
+rw 50,edge-list,173373,rev-edge-list,181808,vertex-pull,336515,vertex-push,165122,vertex-push-warp,715503
+rw 30,edge-list,121335,rev-edge-list,120094,vertex-pull,184693,vertex-push,154597,vertex-push-warp,418055
+rw 15,edge-list,116296,rev-edge-list,110248,vertex-pull,115875,vertex-push,105187,vertex-push-warp,228119
+rw 05,edge-list,108663,rev-edge-list,106600,vertex-pull,111196,vertex-push,102871,vertex-push-warp,214634
+,,,,,,,,,,
+radoslaw_email.edges,1,,2,,3,,4,,5,
+graph,edge-list,162279,rev-edge-list,155877,vertex-pull,159564,vertex-push,675032,vertex-push-warp,475080
+ff 50,edge-list,109418,rev-edge-list,111486,vertex-pull,103371,vertex-push,252029,vertex-push-warp,259191
+ff 30,edge-list,115308,rev-edge-list,111097,vertex-pull,103179,vertex-push,192758,vertex-push-warp,252380
+ff 15,edge-list,114825,rev-edge-list,110378,vertex-pull,102325,vertex-push,148813,vertex-push-warp,231752
+ff 05,edge-list,115048,rev-edge-list,104207,vertex-pull,102853,vertex-push,118930,vertex-push-warp,175452
+re 50,edge-list,108662,rev-edge-list,109796,vertex-pull,110006,vertex-push,100843,vertex-push-warp,226863
+re 30,edge-list,213439,rev-edge-list,210733,vertex-pull,202082,vertex-push,202658,vertex-push-warp,438241
+re 15,edge-list,114950,rev-edge-list,108708,vertex-pull,103199,vertex-push,105444,vertex-push-warp,199383
+re 05,edge-list,114931,rev-edge-list,103355,vertex-pull,100918,vertex-push,105077,vertex-push-warp,161690
+rw 50,edge-list,538605,rev-edge-list,486805,vertex-pull,496830,vertex-push,511474,vertex-push-warp,1141220
+rw 30,edge-list,696880,rev-edge-list,642024,vertex-pull,632900,vertex-push,638354,vertex-push-warp,1419270
+rw 15,edge-list,336097,rev-edge-list,301041,vertex-pull,291628,vertex-push,302549,vertex-push-warp,619749
+rw 05,edge-list,333454,rev-edge-list,295503,vertex-pull,291942,vertex-push,286171,vertex-push-warp,469479
+,,,,,,,,,,
+slashdot-threads.edges,1,,2,,3,,4,,5,
+graph,edge-list,2217600,rev-edge-list,2291890,vertex-pull,8158460,vertex-push,1995190,vertex-push-warp,4835380
+ff 50,edge-list,1431140,rev-edge-list,1431780,vertex-pull,3749280,vertex-push,1673950,vertex-push-warp,2702840
+ff 30,edge-list,1416840,rev-edge-list,1417360,vertex-pull,3204860,vertex-push,1523240,vertex-push-warp,1694860
+ff 15,edge-list,390175,rev-edge-list,377961,vertex-pull,891062,vertex-push,1076400,vertex-push-warp,960956
+ff 05,edge-list,444079,rev-edge-list,382096,vertex-pull,483119,vertex-push,1499340,vertex-push-warp,1092080
+re 50,edge-list,1244060,rev-edge-list,1224100,vertex-pull,3268230,vertex-push,1356670,vertex-push-warp,2996600
+re 30,edge-list,1136640,rev-edge-list,1010530,vertex-pull,3106320,vertex-push,1359340,vertex-push-warp,2491200
+re 15,edge-list,109204,rev-edge-list,99955,vertex-pull,352147,vertex-push,118729,vertex-push-warp,213109
+re 05,edge-list,114253,rev-edge-list,101215,vertex-pull,150205,vertex-push,106883,vertex-push-warp,222333
+rw 50,edge-list,1249110,rev-edge-list,1350110,vertex-pull,4671640,vertex-push,1515210,vertex-push-warp,3011380
+rw 30,edge-list,913144,rev-edge-list,834491,vertex-pull,2698120,vertex-push,1168930,vertex-push-warp,1950680
+rw 15,edge-list,1197250,rev-edge-list,1040790,vertex-pull,2612070,vertex-push,1346440,vertex-push-warp,2586900
+rw 05,edge-list,543634,rev-edge-list,455052,vertex-pull,989518,vertex-push,464690,vertex-push-warp,1066610
+,,,,,,,,,,
+slashdot-zoo.edges,1,,2,,3,,4,,5,
+graph,edge-list,6098230,rev-edge-list,6659060,vertex-pull,8059730,vertex-push,4403280,vertex-push-warp,6494520
+ff 50,edge-list,1630530,rev-edge-list,1767370,vertex-pull,2236100,vertex-push,2213050,vertex-push-warp,2313740
+ff 30,edge-list,882923,rev-edge-list,873710,vertex-pull,1103340,vertex-push,1749580,vertex-push-warp,1613690
+ff 15,edge-list,429164,rev-edge-list,396520,vertex-pull,563228,vertex-push,1458200,vertex-push-warp,914154
+ff 05,edge-list,282958,rev-edge-list,235275,vertex-pull,295279,vertex-push,1339450,vertex-push-warp,715904
+re 50,edge-list,2130640,rev-edge-list,2379210,vertex-pull,3743100,vertex-push,1869230,vertex-push-warp,4572470
+re 30,edge-list,175977,rev-edge-list,188580,vertex-pull,457636,vertex-push,110696,vertex-push-warp,388330
+re 15,edge-list,112614,rev-edge-list,119727,vertex-pull,236258,vertex-push,104880,vertex-push-warp,222444
+re 05,edge-list,103197,rev-edge-list,113006,vertex-pull,142940,vertex-push,102950,vertex-push-warp,215032
+rw 50,edge-list,1657310,rev-edge-list,1786870,vertex-pull,3496810,vertex-push,2076100,vertex-push-warp,4634460
+rw 30,edge-list,164982,rev-edge-list,178500,vertex-pull,609727,vertex-push,110515,vertex-push-warp,389399
+rw 15,edge-list,1183460,rev-edge-list,1280970,vertex-pull,2831330,vertex-push,1515020,vertex-push-warp,2873190
+rw 05,edge-list,148529,rev-edge-list,157052,vertex-pull,253085,vertex-push,150502,vertex-push-warp,315572
+,,,,,,,,,,
+soc-Epinions1.edges,1,,2,,3,,4,,5,
+graph,edge-list,5935690,rev-edge-list,6405470,vertex-pull,4308570,vertex-push,8586680,vertex-push-warp,6192100
+ff 50,edge-list,2723900,rev-edge-list,2976990,vertex-pull,2303340,vertex-push,5982080,vertex-push-warp,2745290
+ff 30,edge-list,1215230,rev-edge-list,1289440,vertex-pull,1208230,vertex-push,5269360,vertex-push-warp,1652860
+ff 15,edge-list,570763,rev-edge-list,594711,vertex-pull,635962,vertex-push,3891350,vertex-push-warp,1045480
+ff 05,edge-list,209832,rev-edge-list,226984,vertex-pull,321415,vertex-push,2246260,vertex-push-warp,956956
+re 50,edge-list,2351750,rev-edge-list,2610710,vertex-pull,2277460,vertex-push,3101550,vertex-push-warp,4349980
+re 30,edge-list,1211630,rev-edge-list,1382360,vertex-pull,1763170,vertex-push,1853370,vertex-push-warp,3213770
+re 15,edge-list,926694,rev-edge-list,1077710,vertex-pull,1552210,vertex-push,1370620,vertex-push-warp,2243640
+re 05,edge-list,105062,rev-edge-list,117449,vertex-pull,149005,vertex-push,102952,vertex-push-warp,214947
+rw 50,edge-list,2023780,rev-edge-list,2189950,vertex-pull,2025450,vertex-push,2231450,vertex-push-warp,3739210
+rw 30,edge-list,1397660,rev-edge-list,1577480,vertex-pull,1677610,vertex-push,1487930,vertex-push-warp,2867670
+rw 15,edge-list,804596,rev-edge-list,864267,vertex-pull,1078940,vertex-push,1129280,vertex-push-warp,1960030
+rw 05,edge-list,961609,rev-edge-list,1028960,vertex-pull,1066400,vertex-push,1098410,vertex-push-warp,2278390
+,,,,,,,,,,
+soc-LiveJournal1.edges,1,,2,,3,,4,,5,
+graph,edge-list,59729,rev-edge-list,59901,vertex-pull,56063,vertex-push,58303,vertex-push-warp,81513
+ff 50,edge-list,58188,rev-edge-list,59315,vertex-pull,53870,vertex-push,59362,vertex-push-warp,81497
+ff 30,edge-list,56291,rev-edge-list,59085,vertex-pull,52713,vertex-push,55791,vertex-push-warp,81289
+ff 15,edge-list,56234,rev-edge-list,60377,vertex-pull,52432,vertex-push,55622,vertex-push-warp,81693
+ff 05,edge-list,59793,rev-edge-list,56732,vertex-pull,52676,vertex-push,55226,vertex-push-warp,81664
+re 50,edge-list,59787,rev-edge-list,55738,vertex-pull,56492,vertex-push,59381,vertex-push-warp,80052
+re 30,edge-list,59466,rev-edge-list,55796,vertex-pull,56453,vertex-push,59083,vertex-push-warp,75407
+re 15,edge-list,59456,rev-edge-list,59954,vertex-pull,55999,vertex-push,59016,vertex-push-warp,71107
+re 05,edge-list,59379,rev-edge-list,59419,vertex-pull,56085,vertex-push,59560,vertex-push-warp,77785
+,,,,,,,,,,
+soc-pokec-relationships.edges,1,,2,,3,,4,,5,
+graph,edge-list,431089000,rev-edge-list,494223000,vertex-pull,178159000,vertex-push,100800000,vertex-push-warp,170650000
+ff 50,edge-list,37904000,rev-edge-list,41018500,vertex-pull,32530500,vertex-push,33762800,vertex-push-warp,45845300
+ff 30,edge-list,11381600,rev-edge-list,11965200,vertex-pull,11476100,vertex-push,21913700,vertex-push-warp,22863200
+ff 15,edge-list,3718600,rev-edge-list,3829950,vertex-pull,5011080,vertex-push,22477900,vertex-push-warp,12043400
+ff 05,edge-list,1098580,rev-edge-list,1136290,vertex-pull,1518010,vertex-push,12635300,vertex-push-warp,4401460
+re 50,edge-list,46242100,rev-edge-list,51498800,vertex-pull,85090600,vertex-push,37648700,vertex-push-warp,200366000
+re 30,edge-list,997585,rev-edge-list,1056310,vertex-pull,2700640,vertex-push,1113880,vertex-push-warp,6299650
+re 15,edge-list,439435,rev-edge-list,443565,vertex-pull,1315540,vertex-push,611613,vertex-push-warp,3266910
+re 05,edge-list,181804,rev-edge-list,180939,vertex-pull,462979,vertex-push,274856,vertex-push-warp,1229570
+rw 50,edge-list,54366100,rev-edge-list,61369600,vertex-pull,73002300,vertex-push,32677600,vertex-push-warp,177863000
+rw 30,edge-list,1489590,rev-edge-list,1625070,vertex-pull,2973860,vertex-push,1110980,vertex-push-warp,6301070
+rw 15,edge-list,3534570,rev-edge-list,3745300,vertex-pull,7624500,vertex-push,3275850,vertex-push-warp,17886600
+rw 05,edge-list,357161,rev-edge-list,396280,vertex-pull,728780,vertex-push,410719,vertex-push-warp,1838350
+,,,,,,,,,,
+topology.edges,1,,2,,3,,4,,5,
+graph,edge-list,2014810,rev-edge-list,2063880,vertex-pull,4462310,vertex-push,8586980,vertex-push-warp,3209100
+ff 50,edge-list,590347,rev-edge-list,578912,vertex-pull,2589820,vertex-push,5457590,vertex-push-warp,1418960
+ff 30,edge-list,334745,rev-edge-list,343448,vertex-pull,2459890,vertex-push,4723540,vertex-push-warp,1274990
+ff 15,edge-list,229211,rev-edge-list,237472,vertex-pull,2447230,vertex-push,4877880,vertex-push-warp,1231300
+ff 05,edge-list,192884,rev-edge-list,193780,vertex-pull,1299480,vertex-push,2699960,vertex-push-warp,748774
+re 50,edge-list,1352010,rev-edge-list,1406960,vertex-pull,2196380,vertex-push,3981780,vertex-push-warp,1879140
+re 30,edge-list,886408,rev-edge-list,885040,vertex-pull,1408830,vertex-push,2242090,vertex-push-warp,1437820
+re 15,edge-list,513054,rev-edge-list,491569,vertex-pull,945239,vertex-push,1357120,vertex-push-warp,1203350
+re 05,edge-list,682700,rev-edge-list,699889,vertex-pull,990178,vertex-push,945787,vertex-push-warp,1438730
+rw 50,edge-list,1194440,rev-edge-list,1168670,vertex-pull,2653960,vertex-push,4669120,vertex-push-warp,1613850
+rw 30,edge-list,977053,rev-edge-list,901084,vertex-pull,2017940,vertex-push,2643440,vertex-push-warp,1492290
+rw 15,edge-list,708499,rev-edge-list,690606,vertex-pull,1730750,vertex-push,1949030,vertex-push-warp,1667180
+rw 05,edge-list,906286,rev-edge-list,868202,vertex-pull,1376280,vertex-push,1486240,vertex-push-warp,2182780
+,,,,,,,,,,
+trec-wt10g.edges,1,,2,,3,,4,,5,
+graph,edge-list,843250000,rev-edge-list,850062000,vertex-pull,1616190000,vertex-push,478149000,vertex-push-warp,1047430000
+ff 50,edge-list,244196000,rev-edge-list,247189000,vertex-pull,482883000,vertex-push,300637000,vertex-push-warp,325969000
+ff 30,edge-list,10336100,rev-edge-list,10404900,vertex-pull,30061900,vertex-push,2166190,vertex-push-warp,12548500
+ff 15,edge-list,7285730,rev-edge-list,7354180,vertex-pull,31424900,vertex-push,1767310,vertex-push-warp,9759490
+ff 05,edge-list,3424860,rev-edge-list,3499800,vertex-pull,10410700,vertex-push,102392000,vertex-push-warp,7882700
+re 50,edge-list,3473920,rev-edge-list,3498800,vertex-pull,13191200,vertex-push,2619940,vertex-push-warp,15481600
+re 30,edge-list,1629000,rev-edge-list,1635360,vertex-pull,5939410,vertex-push,1629520,vertex-push-warp,9420940
+re 15,edge-list,491656,rev-edge-list,496727,vertex-pull,1670420,vertex-push,602550,vertex-push-warp,3265140
+re 05,edge-list,190071,rev-edge-list,194071,vertex-pull,550454,vertex-push,273663,vertex-push-warp,1223930
+rw 50,edge-list,27425300,rev-edge-list,27756000,vertex-pull,125415000,vertex-push,22279100,vertex-push-warp,98551400
+rw 30,edge-list,3107240,rev-edge-list,3111240,vertex-pull,12804000,vertex-push,2161710,vertex-push-warp,12548900
+rw 15,edge-list,779593,rev-edge-list,771637,vertex-pull,2601350,vertex-push,603743,vertex-push-warp,3262470
+rw 05,edge-list,871924,rev-edge-list,881607,vertex-pull,2245730,vertex-push,788942,vertex-push-warp,3632780
+,,,,,,,,,,
+web-NotreDame.edges,1,,2,,3,,4,,5,
+graph,edge-list,80816000,rev-edge-list,81568600,vertex-pull,109449000,vertex-push,55325300,vertex-push-warp,110500000
+ff 50,edge-list,21112700,rev-edge-list,21350100,vertex-pull,92338400,vertex-push,21175900,vertex-push-warp,31485300
+ff 30,edge-list,2541950,rev-edge-list,2602460,vertex-pull,12956100,vertex-push,12013800,vertex-push-warp,8356200
+ff 15,edge-list,1158390,rev-edge-list,1152920,vertex-pull,1657890,vertex-push,9522600,vertex-push-warp,3550580
+ff 05,edge-list,603425,rev-edge-list,599445,vertex-pull,1862070,vertex-push,5989230,vertex-push-warp,1387380
+re 50,edge-list,9880550,rev-edge-list,9943020,vertex-pull,82203300,vertex-push,5310380,vertex-push-warp,26976400
+re 30,edge-list,1166170,rev-edge-list,1141430,vertex-pull,6161810,vertex-push,869426,vertex-push-warp,4182960
+re 15,edge-list,188980,rev-edge-list,183863,vertex-pull,1042610,vertex-push,182758,vertex-push-warp,724960
+re 05,edge-list,113420,rev-edge-list,119549,vertex-pull,241404,vertex-push,120389,vertex-push-warp,236163
+rw 50,edge-list,17276200,rev-edge-list,17458700,vertex-pull,130021000,vertex-push,12341400,vertex-push-warp,40692700
+rw 30,edge-list,5381640,rev-edge-list,5456970,vertex-pull,34238200,vertex-push,4906070,vertex-push-warp,17260400
+rw 15,edge-list,1862290,rev-edge-list,1996500,vertex-pull,9024570,vertex-push,1728580,vertex-push-warp,6274290
+rw 05,edge-list,751552,rev-edge-list,747326,vertex-pull,1988070,vertex-push,770329,vertex-push-warp,1656530
+,,,,,,,,,,
+wikiconflict.edges,1,,2,,3,,4,,5,
+graph,edge-list,30743600,rev-edge-list,32538200,vertex-pull,15954100,vertex-push,66959000,vertex-push-warp,13750300
+ff 50,edge-list,3565200,rev-edge-list,3772980,vertex-pull,11073800,vertex-push,47266000,vertex-push-warp,6252360
+ff 30,edge-list,789558,rev-edge-list,849456,vertex-pull,357872,vertex-push,26167300,vertex-push-warp,3142620
+ff 15,edge-list,362239,rev-edge-list,392792,vertex-pull,170033,vertex-push,17178400,vertex-push-warp,2287820
+ff 05,edge-list,186050,rev-edge-list,180016,vertex-pull,155027,vertex-push,5456230,vertex-push-warp,826819
+re 50,edge-list,4896780,rev-edge-list,5410960,vertex-pull,5932570,vertex-push,8235970,vertex-push-warp,4909130
+re 30,edge-list,2196800,rev-edge-list,2355220,vertex-pull,2551640,vertex-push,3096810,vertex-push-warp,3848000
+re 15,edge-list,1649520,rev-edge-list,1633770,vertex-pull,2065790,vertex-push,1778580,vertex-push-warp,2498190
+re 05,edge-list,118524,rev-edge-list,108624,vertex-pull,173033,vertex-push,100914,vertex-push-warp,215945
+rw 50,edge-list,4467500,rev-edge-list,4821070,vertex-pull,6633050,vertex-push,6895190,vertex-push-warp,5714650
+rw 30,edge-list,547284,rev-edge-list,566747,vertex-pull,2425940,vertex-push,244431,vertex-push-warp,827603
+rw 15,edge-list,1539510,rev-edge-list,1499470,vertex-pull,2178900,vertex-push,2106170,vertex-push-warp,2167800
+rw 05,edge-list,120967,rev-edge-list,104743,vertex-pull,230746,vertex-push,104830,vertex-push-warp,218511
+,,,,,,,,,,
+wikipedia_link_de.edges,1,,2,,3,,4,,5,
+graph,edge-list,1399260000,rev-edge-list,1547370000,vertex-pull,910232000,vertex-push,274887000,vertex-push-warp,420216000
+ff 50,edge-list,148126000,rev-edge-list,161358000,vertex-pull,261593000,vertex-push,78637500,vertex-push-warp,92235500
+ff 30,edge-list,40535500,rev-edge-list,43520300,vertex-pull,60867300,vertex-push,39347100,vertex-push-warp,50853600
+ff 15,edge-list,10685500,rev-edge-list,11290400,vertex-pull,15714200,vertex-push,18388300,vertex-push-warp,20722600
+ff 05,edge-list,2506710,rev-edge-list,2621240,vertex-pull,3992270,vertex-push,9672630,vertex-push-warp,7437090
+re 50,edge-list,165730000,rev-edge-list,189705000,vertex-pull,263692000,vertex-push,77476800,vertex-push-warp,386091000
+re 30,edge-list,2833260,rev-edge-list,3150130,vertex-pull,13793100,vertex-push,2107580,vertex-push-warp,12362200
+re 15,edge-list,10780400,rev-edge-list,11339000,vertex-pull,53300200,vertex-push,11825500,vertex-push-warp,68942200
+re 05,edge-list,303876,rev-edge-list,312502,vertex-pull,1318930,vertex-push,446745,vertex-push-warp,2246660
+rw 50,edge-list,131008000,rev-edge-list,149445000,vertex-pull,196414000,vertex-push,58553000,vertex-push-warp,285250000
+rw 30,edge-list,71375100,rev-edge-list,80428900,vertex-pull,102009000,vertex-push,40250100,vertex-push-warp,202747000
+rw 15,edge-list,31406200,rev-edge-list,34796100,vertex-pull,52804600,vertex-push,22636600,vertex-push-warp,112151000
+rw 05,edge-list,551502,rev-edge-list,582371,vertex-pull,2233840,vertex-push,443812,vertex-push-warp,2246770
+,,,,,,,,,,
+wikipedia_link_fr.edges,1,,2,,3,,4,,5,
+graph,edge-list,1746120000,rev-edge-list,1889650000,vertex-pull,985916000,vertex-push,255161000,vertex-push-warp,406480000
+ff 50,edge-list,200208000,rev-edge-list,216117000,vertex-pull,200441000,vertex-push,85852000,vertex-push-warp,96101900
+ff 30,edge-list,59720000,rev-edge-list,64143000,vertex-pull,50698200,vertex-push,48165100,vertex-push-warp,51722900
+ff 15,edge-list,17781700,rev-edge-list,19004100,vertex-pull,14913600,vertex-push,18887100,vertex-push-warp,21120700
+ff 05,edge-list,7463520,rev-edge-list,7972790,vertex-pull,5235960,vertex-push,10221300,vertex-push-warp,8349180
+re 50,edge-list,216889000,rev-edge-list,246922000,vertex-pull,310454000,vertex-push,83701700,vertex-push-warp,428427000
+re 30,edge-list,64292200,rev-edge-list,71759800,vertex-pull,178369000,vertex-push,47877900,vertex-push-warp,261011000
+re 15,edge-list,1460670,rev-edge-list,1547030,vertex-pull,7660160,vertex-push,1546280,vertex-push-warp,8914180
+re 05,edge-list,297763,rev-edge-list,301367,vertex-pull,1175580,vertex-push,408400,vertex-push-warp,2083840
+rw 50,edge-list,130756000,rev-edge-list,147510000,vertex-pull,130917000,vertex-push,53798700,vertex-push-warp,257994000
+rw 30,edge-list,68182000,rev-edge-list,76291200,vertex-pull,82460700,vertex-push,36473800,vertex-push-warp,179098000
+rw 15,edge-list,38512300,rev-edge-list,42234400,vertex-pull,54726100,vertex-push,26177000,vertex-push-warp,129513000
+rw 05,edge-list,9799590,rev-edge-list,10327400,vertex-pull,16096600,vertex-push,8636890,vertex-push-warp,39071300
+,,,,,,,,,,
+wikipedia_link_it.edges,1,,2,,3,,4,,5,
+graph,edge-list,1366110000,rev-edge-list,1456460000,vertex-pull,725347000,vertex-push,217039000,vertex-push-warp,248420000
+ff 50,edge-list,82504300,rev-edge-list,88077900,vertex-pull,91891100,vertex-push,56264700,vertex-push-warp,56602500
+ff 30,edge-list,20756600,rev-edge-list,21982800,vertex-pull,24057800,vertex-push,20323200,vertex-push-warp,25508400
+ff 15,edge-list,5976270,rev-edge-list,6307820,vertex-pull,7000650,vertex-push,9667130,vertex-push-warp,12623100
+ff 05,edge-list,1277690,rev-edge-list,1369380,vertex-pull,1605440,vertex-push,5511520,vertex-push-warp,3758820
+re 50,edge-list,103066000,rev-edge-list,113942000,vertex-pull,172001000,vertex-push,48016800,vertex-push-warp,243476000
+re 30,edge-list,2549510,rev-edge-list,2745420,vertex-pull,11450500,vertex-push,1879180,vertex-push-warp,10928000
+re 15,edge-list,633060,rev-edge-list,667910,vertex-pull,2558490,vertex-push,690389,vertex-push-warp,3774130
+re 05,edge-list,230870,rev-edge-list,229486,vertex-pull,721629,vertex-push,286530,vertex-push-warp,1398030
+rw 50,edge-list,79304700,rev-edge-list,88174500,vertex-pull,97846000,vertex-push,38758800,vertex-push-warp,179223000
+rw 30,edge-list,54741500,rev-edge-list,60109700,vertex-pull,70602600,vertex-push,32452600,vertex-push-warp,159473000
+rw 15,edge-list,25307200,rev-edge-list,26967500,vertex-pull,38536000,vertex-push,18731600,vertex-push-warp,90107500
+rw 05,edge-list,7539800,rev-edge-list,7811190,vertex-pull,12987300,vertex-push,6879200,vertex-push-warp,30982300
+,,,,,,,,,,
+wikipedia_link_ja.edges,1,,2,,3,,4,,5,
+graph,edge-list,1065080000,rev-edge-list,1157580000,vertex-pull,461777000,vertex-push,172853000,vertex-push-warp,208289000
+ff 50,edge-list,61659900,rev-edge-list,66497200,vertex-pull,51145900,vertex-push,45649200,vertex-push-warp,42568900
+ff 30,edge-list,18439700,rev-edge-list,19860300,vertex-pull,15389200,vertex-push,23551400,vertex-push-warp,22728700
+ff 15,edge-list,4813900,rev-edge-list,5080660,vertex-pull,4358980,vertex-push,8620290,vertex-push-warp,9081800
+ff 05,edge-list,1232260,rev-edge-list,1280610,vertex-pull,1252080,vertex-push,7170830,vertex-push-warp,4107800
+re 50,edge-list,61003500,rev-edge-list,69198600,vertex-pull,78682600,vertex-push,29639200,vertex-push-warp,142001000
+re 30,edge-list,33343200,rev-edge-list,36444500,vertex-pull,77554400,vertex-push,27203300,vertex-push-warp,147067000
+re 15,edge-list,1093430,rev-edge-list,1132260,vertex-pull,4088160,vertex-push,1187260,vertex-push-warp,6500080
+re 05,edge-list,187191,rev-edge-list,184314,vertex-pull,623060,vertex-push,268318,vertex-push-warp,1222130
+rw 50,edge-list,50927500,rev-edge-list,57051300,vertex-pull,49355900,vertex-push,25822700,vertex-push-warp,102282000
+rw 30,edge-list,29686200,rev-edge-list,32907200,vertex-pull,35519600,vertex-push,18474100,vertex-push-warp,80941000
+rw 15,edge-list,16033600,rev-edge-list,17254200,vertex-pull,22313400,vertex-push,12682000,vertex-push-warp,56698000
+rw 05,edge-list,4725390,rev-edge-list,4994720,vertex-pull,7799920,vertex-push,4810740,vertex-push-warp,19987800
+,,,,,,,,,,
+wikipedia_link_pl.edges,1,,2,,3,,4,,5,
+graph,edge-list,1521540000,rev-edge-list,1612990000,vertex-pull,682858000,vertex-push,146780000,vertex-push-warp,299818000
+ff 50,edge-list,82217900,rev-edge-list,88301500,vertex-pull,115077000,vertex-push,38924300,vertex-push-warp,46776900
+ff 30,edge-list,18850600,rev-edge-list,20143400,vertex-pull,25257200,vertex-push,15467900,vertex-push-warp,21141100
+ff 15,edge-list,5538020,rev-edge-list,5805770,vertex-pull,6427080,vertex-push,9544730,vertex-push-warp,10581100
+ff 05,edge-list,1041400,rev-edge-list,1085900,vertex-pull,1358350,vertex-push,4885220,vertex-push-warp,2933520
+re 50,edge-list,67903400,rev-edge-list,74334000,vertex-pull,123743000,vertex-push,36570300,vertex-push-warp,189212000
+re 30,edge-list,24752700,rev-edge-list,26241200,vertex-pull,80670800,vertex-push,21830000,vertex-push-warp,117795000
+re 15,edge-list,488483,rev-edge-list,508849,vertex-pull,2519430,vertex-push,571045,vertex-push-warp,3099680
+re 05,edge-list,178911,rev-edge-list,178105,vertex-pull,671422,vertex-push,239202,vertex-push-warp,1075330
+rw 50,edge-list,67382000,rev-edge-list,74230100,vertex-pull,98088800,vertex-push,32862700,vertex-push-warp,147047000
+rw 30,edge-list,42692200,rev-edge-list,46543200,vertex-pull,72376000,vertex-push,25043600,vertex-push-warp,118573000
+rw 15,edge-list,1422300,rev-edge-list,1516730,vertex-pull,7462770,vertex-push,856045,vertex-push-warp,4638330
+rw 05,edge-list,5175500,rev-edge-list,5532200,vertex-pull,10460600,vertex-push,4871580,vertex-push-warp,19139700
+,,,,,,,,,,
+wikipedia_link_pt.edges,1,,2,,3,,4,,5,
+graph,edge-list,1296790000,rev-edge-list,1368310000,vertex-pull,671464000,vertex-push,160019000,vertex-push-warp,306617000
+ff 50,edge-list,148092000,rev-edge-list,157881000,vertex-pull,142064000,vertex-push,52453600,vertex-push-warp,59422800
+ff 30,edge-list,36042100,rev-edge-list,38347800,vertex-pull,35949200,vertex-push,23205000,vertex-push-warp,27500500
+ff 15,edge-list,9436680,rev-edge-list,10006800,vertex-pull,9359600,vertex-push,10362800,vertex-push-warp,13031900
+ff 05,edge-list,1679590,rev-edge-list,1734880,vertex-pull,2206680,vertex-push,5845320,vertex-push-warp,3981840
+re 50,edge-list,5544900,rev-edge-list,6078440,vertex-pull,28555700,vertex-push,1764420,vertex-push-warp,10334300
+re 30,edge-list,1721770,rev-edge-list,1849850,vertex-pull,8750160,vertex-push,1098180,vertex-push-warp,6290550
+re 15,edge-list,587111,rev-edge-list,610187,vertex-pull,2879760,vertex-push,599924,vertex-push-warp,3263270
+re 05,edge-list,188964,rev-edge-list,183320,vertex-pull,796825,vertex-push,271008,vertex-push-warp,1222380
+rw 50,edge-list,66339500,rev-edge-list,73293800,vertex-pull,81228300,vertex-push,30972700,vertex-push-warp,138057000
+rw 30,edge-list,34823200,rev-edge-list,38220100,vertex-pull,47695900,vertex-push,21185700,vertex-push-warp,93321900
+rw 15,edge-list,20836400,rev-edge-list,22345400,vertex-pull,29202000,vertex-push,15375200,vertex-push-warp,69535900
+rw 05,edge-list,348644,rev-edge-list,367346,vertex-pull,869855,vertex-push,270636,vertex-push-warp,1218690
+,,,,,,,,,,
+wikipedia_link_ru.edges,1,,2,,3,,4,,5,
+graph,edge-list,5176030000,rev-edge-list,5479230000,vertex-pull,1249740000,vertex-push,344775000,vertex-push-warp,1173390000
+ff 50,edge-list,234107000,rev-edge-list,251386000,vertex-pull,253228000,vertex-push,84350200,vertex-push-warp,102592000
+ff 30,edge-list,65965100,rev-edge-list,70418000,vertex-pull,68744200,vertex-push,38545600,vertex-push-warp,49731200
+ff 15,edge-list,15831300,rev-edge-list,16753800,vertex-pull,15876100,vertex-push,14529500,vertex-push-warp,19477900
+ff 05,edge-list,3645850,rev-edge-list,3805060,vertex-pull,3581840,vertex-push,7834170,vertex-push-warp,6616130
+re 50,edge-list,229128000,rev-edge-list,255353000,vertex-pull,224000000,vertex-push,66410900,vertex-push-warp,308864000
+re 30,edge-list,76751200,rev-edge-list,84589800,vertex-pull,167776000,vertex-push,49718500,vertex-push-warp,269581000
+re 15,edge-list,983114,rev-edge-list,1016320,vertex-pull,4645140,vertex-push,986992,vertex-push-warp,5619950
+re 05,edge-list,432393,rev-edge-list,434989,vertex-pull,1718040,vertex-push,568971,vertex-push-warp,2863770
+rw 50,edge-list,122716000,rev-edge-list,137948000,vertex-pull,122790000,vertex-push,52083600,vertex-push-warp,252624000
+rw 30,edge-list,80949900,rev-edge-list,90345400,vertex-pull,92674500,vertex-push,43020200,vertex-push-warp,217932000
+rw 15,edge-list,39911500,rev-edge-list,43499400,vertex-pull,54554200,vertex-push,27286500,vertex-push-warp,135938000
+rw 05,edge-list,10210900,rev-edge-list,10894000,vertex-pull,16032700,vertex-push,8848750,vertex-push-warp,39695900
+,,,,,,,,,,
+wikisigned-k2.edges,1,,2,,3,,4,,5,
+graph,edge-list,9280520,rev-edge-list,9944190,vertex-pull,19877900,vertex-push,14983600,vertex-push-warp,12096100
+ff 50,edge-list,1631330,rev-edge-list,1717270,vertex-pull,1697520,vertex-push,9020130,vertex-push-warp,4062920
+ff 30,edge-list,998524,rev-edge-list,1074650,vertex-pull,1406450,vertex-push,7285350,vertex-push-warp,3151470
+ff 15,edge-list,539720,rev-edge-list,559509,vertex-pull,656728,vertex-push,7041910,vertex-push-warp,1617700
+ff 05,edge-list,232589,rev-edge-list,230596,vertex-pull,229870,vertex-push,5329130,vertex-push-warp,862146
+re 50,edge-list,2638780,rev-edge-list,2800380,vertex-pull,6708450,vertex-push,3882850,vertex-push-warp,6573400
+re 30,edge-list,1631400,rev-edge-list,1648870,vertex-pull,4515660,vertex-push,2430360,vertex-push-warp,5470800
+re 15,edge-list,1361000,rev-edge-list,1260670,vertex-pull,3789040,vertex-push,1999210,vertex-push-warp,4653150
+re 05,edge-list,229873,rev-edge-list,201827,vertex-pull,439980,vertex-push,195708,vertex-push-warp,426268
+rw 50,edge-list,2535490,rev-edge-list,2754240,vertex-pull,8530820,vertex-push,7603820,vertex-push-warp,6946600
+rw 30,edge-list,1417000,rev-edge-list,1423700,vertex-pull,8753470,vertex-push,5730820,vertex-push-warp,4690650
+rw 15,edge-list,958669,rev-edge-list,905034,vertex-pull,6960150,vertex-push,3224550,vertex-push-warp,3297440
+rw 05,edge-list,222546,rev-edge-list,204351,vertex-pull,1480070,vertex-push,196370,vertex-push-warp,425100
+,,,,,,,,,,
+wiki_talk_ar.edges,1,,2,,3,,4,,5,
+graph,edge-list,15370700,rev-edge-list,15518400,vertex-pull,22603200,vertex-push,1881410000,vertex-push-warp,117182000
+ff 15,edge-list,572534,rev-edge-list,563274,vertex-pull,924717,vertex-push,442771,vertex-push-warp,2253950
+ff 05,edge-list,463769,rev-edge-list,465220,vertex-pull,647399,vertex-push,85100300,vertex-push-warp,4148640
+re 15,edge-list,718025,rev-edge-list,708716,vertex-pull,1455310,vertex-push,645680,vertex-push-warp,3368600
+re 05,edge-list,1234460,rev-edge-list,1249080,vertex-pull,1874280,vertex-push,3377100,vertex-push-warp,4930880
+rw 15,edge-list,2901340,rev-edge-list,2946600,vertex-pull,5525280,vertex-push,75383600,vertex-push-warp,11637300
+rw 05,edge-list,1551920,rev-edge-list,1595220,vertex-pull,4152270,vertex-push,13247400,vertex-push-warp,4514330
+,,,,,,,,,,
+wiki_talk_de.edges,1,,2,,3,,4,,5,
+graph,edge-list,22974600,rev-edge-list,24068600,vertex-pull,17044400,vertex-push,291351000,vertex-push-warp,48836300
+ff 50,edge-list,4336280,rev-edge-list,4530450,vertex-pull,4659770,vertex-push,44515600,vertex-push-warp,10958200
+ff 30,edge-list,2205150,rev-edge-list,2296880,vertex-pull,2419650,vertex-push,34025600,vertex-push-warp,6528050
+ff 15,edge-list,810297,rev-edge-list,829868,vertex-pull,936958,vertex-push,16851500,vertex-push-warp,3346470
+ff 05,edge-list,361814,rev-edge-list,366635,vertex-pull,351352,vertex-push,15628800,vertex-push-warp,1604950
+re 50,edge-list,5656020,rev-edge-list,5947580,vertex-pull,7662690,vertex-push,29287300,vertex-push-warp,17070800
+re 30,edge-list,3501070,rev-edge-list,3595710,vertex-pull,4998820,vertex-push,11371300,vertex-push-warp,11412600
+re 15,edge-list,2041210,rev-edge-list,2120260,vertex-pull,3033840,vertex-push,6068440,vertex-push-warp,7016290
+re 05,edge-list,1080040,rev-edge-list,1106330,vertex-pull,1222120,vertex-push,2075160,vertex-push-warp,2789400
+rw 50,edge-list,10931400,rev-edge-list,11581500,vertex-pull,10239200,vertex-push,18605500,vertex-push-warp,22653200
+rw 30,edge-list,821559,rev-edge-list,856816,vertex-pull,2275380,vertex-push,408411,vertex-push-warp,2087940
+rw 15,edge-list,2604520,rev-edge-list,2780710,vertex-pull,3890870,vertex-push,3226510,vertex-push-warp,7491740
+rw 05,edge-list,1225680,rev-edge-list,1218930,vertex-pull,1502870,vertex-push,1354700,vertex-push-warp,3058600
+,,,,,,,,,,
+wiki_talk_en.edges,1,,2,,3,,4,,5,
+graph,edge-list,81434300,rev-edge-list,86774100,vertex-pull,65030800,vertex-push,449321000,vertex-push-warp,181840000
+ff 50,edge-list,14703000,rev-edge-list,15309600,vertex-pull,16984600,vertex-push,197791000,vertex-push-warp,49331100
+ff 30,edge-list,8078120,rev-edge-list,8402630,vertex-pull,9819550,vertex-push,112143000,vertex-push-warp,29639800
+ff 15,edge-list,3476370,rev-edge-list,3571050,vertex-pull,4570920,vertex-push,94203000,vertex-push-warp,14452300
+ff 05,edge-list,1293140,rev-edge-list,1290280,vertex-pull,1640300,vertex-push,37852400,vertex-push-warp,6585160
+re 50,edge-list,27357700,rev-edge-list,29027900,vertex-pull,36958000,vertex-push,171633000,vertex-push-warp,89493000
+re 30,edge-list,13938300,rev-edge-list,14718600,vertex-pull,21489700,vertex-push,84786300,vertex-push-warp,53139400
+re 15,edge-list,7592940,rev-edge-list,7927140,vertex-pull,12732100,vertex-push,39400500,vertex-push-warp,32414000
+re 05,edge-list,3371960,rev-edge-list,3462480,vertex-pull,6302310,vertex-push,15307900,vertex-push-warp,16065300
+rw 50,edge-list,39480700,rev-edge-list,42094200,vertex-pull,49806800,vertex-push,47393300,vertex-push-warp,105499000
+rw 30,edge-list,3587640,rev-edge-list,3760350,vertex-pull,11488900,vertex-push,1969900,vertex-push-warp,11515700
+rw 15,edge-list,1537530,rev-edge-list,1590840,vertex-pull,5159630,vertex-push,1024180,vertex-push-warp,5794410
+rw 05,edge-list,513073,rev-edge-list,521729,vertex-pull,1470320,vertex-push,399126,vertex-push-warp,2080420
+,,,,,,,,,,
+wiki_talk_es.edges,1,,2,,3,,4,,5,
+graph,edge-list,11089900,rev-edge-list,11454200,vertex-pull,13392100,vertex-push,419623000,vertex-push-warp,36350200
+ff 50,edge-list,4110650,rev-edge-list,4240010,vertex-pull,6046580,vertex-push,93718200,vertex-push-warp,12384200
+ff 30,edge-list,2091320,rev-edge-list,2085440,vertex-pull,3848120,vertex-push,32983800,vertex-push-warp,7731160
+ff 15,edge-list,351443,rev-edge-list,342871,vertex-pull,787407,vertex-push,231364,vertex-push-warp,1067080
+ff 05,edge-list,355885,rev-edge-list,345548,vertex-pull,381233,vertex-push,8112410,vertex-push-warp,1147490
+re 50,edge-list,4320420,rev-edge-list,4424680,vertex-pull,7195390,vertex-push,33880400,vertex-push-warp,16024000
+re 30,edge-list,540807,rev-edge-list,553942,vertex-pull,1493490,vertex-push,398883,vertex-push-warp,2080040
+re 15,edge-list,1577280,rev-edge-list,1650910,vertex-pull,2591320,vertex-push,9192760,vertex-push-warp,6491900
+re 05,edge-list,1159720,rev-edge-list,1161910,vertex-pull,1322690,vertex-push,3659000,vertex-push-warp,3022240
+rw 50,edge-list,6987940,rev-edge-list,7298890,vertex-pull,10513200,vertex-push,29190000,vertex-push-warp,18265100
+rw 30,edge-list,5620470,rev-edge-list,5747480,vertex-pull,8968580,vertex-push,14650200,vertex-push-warp,16753000
+rw 15,edge-list,2070780,rev-edge-list,2073030,vertex-pull,4950130,vertex-push,5054830,vertex-push-warp,6962420
+rw 05,edge-list,168653,rev-edge-list,181988,vertex-pull,801508,vertex-push,113967,vertex-push-warp,391707
+,,,,,,,,,,
+wiki_talk_fr.edges,1,,2,,3,,4,,5,
+graph,edge-list,24145300,rev-edge-list,24891100,vertex-pull,30609300,vertex-push,2126520000,vertex-push-warp,146141000
+ff 15,edge-list,2482790,rev-edge-list,2561480,vertex-pull,3084680,vertex-push,125386000,vertex-push-warp,10839100
+ff 05,edge-list,725400,rev-edge-list,741469,vertex-pull,927779,vertex-push,17678600,vertex-push-warp,3420040
+re 15,edge-list,2956180,rev-edge-list,2988310,vertex-pull,5391000,vertex-push,23544600,vertex-push-warp,13758700
+re 05,edge-list,256873,rev-edge-list,242767,vertex-pull,536011,vertex-push,230983,vertex-push-warp,1064750
+rw 15,edge-list,5988100,rev-edge-list,6272860,vertex-pull,14979000,vertex-push,37364000,vertex-push-warp,14837900
+rw 05,edge-list,336923,rev-edge-list,354146,vertex-pull,3854000,vertex-push,224965,vertex-push-warp,1060800
+,,,,,,,,,,
+wiki_talk_it.edges,1,,2,,3,,4,,5,
+graph,edge-list,12770000,rev-edge-list,13200100,vertex-pull,16321600,vertex-push,880683000,vertex-push-warp,61537200
+ff 15,edge-list,1652610,rev-edge-list,1678260,vertex-pull,2127080,vertex-push,37955900,vertex-push-warp,5918730
+ff 05,edge-list,459543,rev-edge-list,454446,vertex-pull,591665,vertex-push,31102400,vertex-push-warp,2803350
+re 15,edge-list,2071670,rev-edge-list,2065030,vertex-pull,3509110,vertex-push,12373200,vertex-push-warp,8325490
+re 05,edge-list,906474,rev-edge-list,846009,vertex-pull,1578410,vertex-push,2436680,vertex-push-warp,3925200
+rw 15,edge-list,3858990,rev-edge-list,3993510,vertex-pull,8261680,vertex-push,30945100,vertex-push-warp,8999500
+rw 05,edge-list,1431560,rev-edge-list,1452090,vertex-pull,6635190,vertex-push,5926900,vertex-push-warp,4692130
+,,,,,,,,,,
+wiki_talk_ru.edges,1,,2,,3,,4,,5,
+graph,edge-list,7267820,rev-edge-list,7468360,vertex-pull,9281030,vertex-push,449291000,vertex-push-warp,33099500
+ff 30,edge-list,1906060,rev-edge-list,1964710,vertex-pull,2126250,vertex-push,96790100,vertex-push-warp,7850440
+ff 15,edge-list,1144770,rev-edge-list,1162460,vertex-pull,1936430,vertex-push,25516400,vertex-push-warp,3572770
+ff 05,edge-list,426977,rev-edge-list,459784,vertex-pull,500335,vertex-push,13524300,vertex-push-warp,1555510
+re 30,edge-list,1773310,rev-edge-list,1842080,vertex-pull,2707740,vertex-push,66349900,vertex-push-warp,7926670
+re 15,edge-list,1294000,rev-edge-list,1326230,vertex-pull,1914650,vertex-push,24490900,vertex-push-warp,5335690
+re 05,edge-list,730829,rev-edge-list,759709,vertex-pull,1096010,vertex-push,7638820,vertex-push-warp,2712860
+rw 30,edge-list,3379440,rev-edge-list,3565950,vertex-pull,5711400,vertex-push,29420600,vertex-push-warp,8019080
+rw 15,edge-list,2053360,rev-edge-list,2140600,vertex-pull,3738900,vertex-push,6700300,vertex-push-warp,5852300
+rw 05,edge-list,980185,rev-edge-list,1077460,vertex-pull,1662070,vertex-push,1758350,vertex-push-warp,2556720
+,,,,,,,,,,
+wiki_talk_zh.edges,1,,2,,3,,4,,5,
+graph,edge-list,13303300,rev-edge-list,13500100,vertex-pull,19513900,vertex-push,1789730000,vertex-push-warp,109394000
+ff 15,edge-list,2403970,rev-edge-list,2410900,vertex-pull,3434430,vertex-push,102495000,vertex-push-warp,9945060
+ff 05,edge-list,638438,rev-edge-list,644893,vertex-pull,911887,vertex-push,45619100,vertex-push-warp,4372730
+re 15,edge-list,2399440,rev-edge-list,2417470,vertex-pull,4073500,vertex-push,23374300,vertex-push-warp,11401000
+re 05,edge-list,238884,rev-edge-list,238034,vertex-pull,390923,vertex-push,225299,vertex-push-warp,895461
+rw 15,edge-list,3118390,rev-edge-list,3268580,vertex-pull,5222480,vertex-push,61760200,vertex-push-warp,10346100
+rw 05,edge-list,1400450,rev-edge-list,1467900,vertex-pull,3634710,vertex-push,14887500,vertex-push-warp,4155500
+,,,,,,,,,,
+wordnet-words.edges,1,,2,,3,,4,,5,
+graph,edge-list,18953300,rev-edge-list,19433600,vertex-pull,13518000,vertex-push,8657480,vertex-push-warp,15850000
+ff 50,edge-list,4057100,rev-edge-list,4181080,vertex-pull,4473880,vertex-push,4821390,vertex-push-warp,4882980
+ff 30,edge-list,1813480,rev-edge-list,1875790,vertex-pull,2998220,vertex-push,3221500,vertex-push-warp,2856160
+ff 15,edge-list,871528,rev-edge-list,896474,vertex-pull,2913690,vertex-push,2868790,vertex-push-warp,1715190
+ff 05,edge-list,333033,rev-edge-list,374667,vertex-pull,1528650,vertex-push,1380480,vertex-push-warp,944633
+re 50,edge-list,426427,rev-edge-list,442296,vertex-pull,670022,vertex-push,227819,vertex-push-warp,1064860
+re 30,edge-list,242509,rev-edge-list,243229,vertex-pull,402249,vertex-push,168802,vertex-push-warp,714143
+re 15,edge-list,174293,rev-edge-list,161924,vertex-pull,216299,vertex-push,111376,vertex-push-warp,385514
+re 05,edge-list,120359,rev-edge-list,107484,vertex-pull,127042,vertex-push,105091,vertex-push-warp,219217
+rw 50,edge-list,6008190,rev-edge-list,6248390,vertex-pull,5968550,vertex-push,3777220,vertex-push-warp,12362900
+rw 30,edge-list,4696880,rev-edge-list,4699740,vertex-pull,4866870,vertex-push,3021840,vertex-push-warp,10599800
+rw 15,edge-list,190438,rev-edge-list,178159,vertex-pull,258883,vertex-push,112056,vertex-push-warp,401534
+rw 05,edge-list,3013400,rev-edge-list,2703760,vertex-pull,3325250,vertex-push,3021990,vertex-push-warp,6348770
+,,,,,,,,,,
+youtube-links.edges,1,,2,,3,,4,,5,
+graph,edge-list,79986500,rev-edge-list,85887100,vertex-pull,75676100,vertex-push,107405000,vertex-push-warp,122235000
+ff 50,edge-list,13630800,rev-edge-list,14494600,vertex-pull,28524300,vertex-push,60378000,vertex-push-warp,28107100
+ff 30,edge-list,5555870,rev-edge-list,5798830,vertex-pull,10092900,vertex-push,57433300,vertex-push-warp,14031000
+ff 15,edge-list,2204940,rev-edge-list,2264520,vertex-pull,2652080,vertex-push,46593400,vertex-push-warp,8552900
+ff 05,edge-list,571049,rev-edge-list,570633,vertex-pull,743582,vertex-push,16772700,vertex-push-warp,3252400
+re 50,edge-list,20523900,rev-edge-list,22097000,vertex-pull,34267300,vertex-push,30505500,vertex-push-warp,59886300
+re 30,edge-list,11299700,rev-edge-list,11899000,vertex-pull,22454600,vertex-push,17357900,vertex-push-warp,44734100
+re 15,edge-list,5091550,rev-edge-list,5343570,vertex-pull,12024700,vertex-push,8111820,vertex-push-warp,24752200
+re 05,edge-list,179922,rev-edge-list,166700,vertex-pull,510843,vertex-push,218466,vertex-push-warp,883761
+rw 50,edge-list,24858200,rev-edge-list,26667800,vertex-pull,39314700,vertex-push,31748400,vertex-push-warp,75190800
+rw 30,edge-list,1861070,rev-edge-list,1959170,vertex-pull,9942720,vertex-push,1186000,vertex-push-warp,6656350
+rw 15,edge-list,6770220,rev-edge-list,7022370,vertex-pull,15346500,vertex-push,8881340,vertex-push-warp,27602200
+rw 05,edge-list,357910,rev-edge-list,365102,vertex-pull,1193900,vertex-push,321979,vertex-push-warp,1320750
+,,,,,,,,,,
+youtube-u-growth.edges,1,,2,,3,,4,,5,
+graph,edge-list,400013000,rev-edge-list,430931000,vertex-pull,293103000,vertex-push,294067000,vertex-push-warp,455332000
+ff 50,edge-list,58420700,rev-edge-list,62234200,vertex-pull,123477000,vertex-push,173278000,vertex-push-warp,74826600
+ff 30,edge-list,31275300,rev-edge-list,33016800,vertex-pull,103504000,vertex-push,176044000,vertex-push-warp,43247900
+ff 15,edge-list,8746410,rev-edge-list,9019810,vertex-pull,71984600,vertex-push,125900000,vertex-push-warp,22478300
+ff 05,edge-list,2074040,rev-edge-list,2079220,vertex-pull,69291900,vertex-push,123183000,vertex-push-warp,12197100
+re 50,edge-list,89092100,rev-edge-list,101479000,vertex-pull,144843000,vertex-push,123025000,vertex-push-warp,172266000
+re 30,edge-list,41380600,rev-edge-list,46420000,vertex-pull,54693300,vertex-push,73893100,vertex-push-warp,102347000
+re 15,edge-list,16542000,rev-edge-list,18087300,vertex-pull,25142100,vertex-push,23940300,vertex-push-warp,51393200
+re 05,edge-list,8286460,rev-edge-list,8594980,vertex-pull,18488600,vertex-push,10147700,vertex-push-warp,30458000
+rw 50,edge-list,120305000,rev-edge-list,132636000,vertex-pull,149871000,vertex-push,127925000,vertex-push-warp,217120000
+rw 30,edge-list,65059800,rev-edge-list,69966500,vertex-pull,121711000,vertex-push,69648500,vertex-push-warp,136315000
+rw 15,edge-list,4156040,rev-edge-list,4353160,vertex-pull,22430300,vertex-push,1640980,vertex-push-warp,9429330
+rw 05,edge-list,1743980,rev-edge-list,1733540,vertex-pull,7568160,vertex-push,878190,vertex-push-warp,4482740
+,,,,,,,,,,
+zhishi-baidu-internallink.edges,1,,2,,3,,4,,5,
+graph,edge-list,395464000,rev-edge-list,458191000,vertex-pull,398721000,vertex-push,100245000,vertex-push-warp,308204000
+ff 50,edge-list,160274000,rev-edge-list,182495000,vertex-pull,168283000,vertex-push,52753300,vertex-push-warp,134677000
+ff 30,edge-list,39183900,rev-edge-list,42985700,vertex-pull,66942200,vertex-push,22300800,vertex-push-warp,41940300
+ff 15,edge-list,3153820,rev-edge-list,3400210,vertex-pull,12573500,vertex-push,775819,vertex-push-warp,4276690
+ff 05,edge-list,2194200,rev-edge-list,2272940,vertex-pull,3705180,vertex-push,4202160,vertex-push-warp,5869770
+re 50,edge-list,51286900,rev-edge-list,59923000,vertex-pull,113869000,vertex-push,27834000,vertex-push-warp,134807000
+re 30,edge-list,27342200,rev-edge-list,31167200,vertex-pull,69472100,vertex-push,20145500,vertex-push-warp,109531000
+re 15,edge-list,788520,rev-edge-list,838479,vertex-pull,3921400,vertex-push,777207,vertex-push-warp,4277610
+re 05,edge-list,248524,rev-edge-list,257498,vertex-pull,966083,vertex-push,334575,vertex-push-warp,1566660
+rw 50,edge-list,46722200,rev-edge-list,53122200,vertex-pull,129503000,vertex-push,28950700,vertex-push-warp,149605000
+rw 30,edge-list,22880400,rev-edge-list,25530300,vertex-pull,58798500,vertex-push,17718100,vertex-push-warp,86610800
+rw 15,edge-list,10785400,rev-edge-list,11555400,vertex-pull,29100200,vertex-push,10721700,vertex-push-warp,47008800
+rw 05,edge-list,1371540,rev-edge-list,1374280,vertex-pull,7013180,vertex-push,1285310,vertex-push-warp,6234960
+,,,,,,,,,,
+zhishi-hudong-internallink.edges,1,,2,,3,,4,,5,
+graph,edge-list,379808000,rev-edge-list,445387000,vertex-pull,363909000,vertex-push,87037700,vertex-push-warp,319177000
+ff 50,edge-list,126835000,rev-edge-list,146308000,vertex-pull,134264000,vertex-push,39252000,vertex-push-warp,124518000
+ff 30,edge-list,120466000,rev-edge-list,135755000,vertex-pull,94219200,vertex-push,36644100,vertex-push-warp,102765000
+ff 15,edge-list,20879300,rev-edge-list,22727500,vertex-pull,26673400,vertex-push,13655700,vertex-push-warp,22216300
+ff 05,edge-list,3131300,rev-edge-list,3325930,vertex-pull,5338490,vertex-push,6739330,vertex-push-warp,6330370
+re 50,edge-list,54519800,rev-edge-list,64102200,vertex-pull,141541000,vertex-push,32190000,vertex-push-warp,179167000
+re 30,edge-list,2551690,rev-edge-list,2901840,vertex-pull,11164200,vertex-push,1998600,vertex-push-warp,11451600
+re 15,edge-list,2848410,rev-edge-list,3021250,vertex-pull,11263600,vertex-push,2814130,vertex-push-warp,15679100
+re 05,edge-list,249456,rev-edge-list,250999,vertex-pull,810800,vertex-push,299684,vertex-push-warp,1405720
+rw 50,edge-list,36790400,rev-edge-list,42286600,vertex-pull,78956400,vertex-push,22936300,vertex-push-warp,123808000
+rw 30,edge-list,17418800,rev-edge-list,19632700,vertex-pull,39745500,vertex-push,12874000,vertex-push-warp,63387200
+rw 15,edge-list,9092920,rev-edge-list,9899520,vertex-pull,19172900,vertex-push,7835760,vertex-push-warp,34675300
+rw 05,edge-list,3635440,rev-edge-list,3955540,vertex-pull,8097670,vertex-push,3766410,vertex-push-warp,14705300
